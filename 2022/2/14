@@ -1,0 +1,15 @@
+Single Number (Easy) https://leetcode.com/problems/single-number/
+Initial thought: Approaching this problem was a bit of a problem: it forces me to do O(n) time and O(1) space. Linear time could be using HashMap<Integer, Boolean> and add elements in there, then check for false, but that would mean O(n) space. I think of maybe keeping a sum of half of everything, but turns out that won't work either. I think of maybe scaling it someway can help it, but then again that scaling won't work. Cool. Then I think of doing range. Not work too.
+
+Solution: I check Discussion section. Turns out we can solve this with XOR. Since XOR is associative, and XOR of two numbers is 0, the final XOR of everything is the answer.
+
+What to learn: XOR and binary operators
+
+
+Palindrom Number (Easy) https://leetcode.com/problems/palindrome-number/
+Initial thought: Easy. Just convert it to string then check from start to finish. But that is very inefficient. I think I maybe can flip the number using modulus, but there are the problem of overflow. Unlucky.
+
+Solution: I check Solution section. Flip HALF of the digits instead, then compare to the second half. 
+
+What to learn: Negative numbers are NOT palindrome. We can also weed out numbers with 0 at start. Also think in half next time.  
+
