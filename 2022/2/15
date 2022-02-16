@@ -1,0 +1,7 @@
+(Actually finished in the 16th, but to make up for 15)
+Swap Nodes in Pairs (Medium) https://leetcode.com/problems/swap-nodes-in-pairs/
+Initial thought: When it comes to LinkedList, it has to be recursion. Simple. This can be solved by considering two nodes in a function, and the next of second node could be whatever returned from the next call of swap function. Simple as that.
+
+Solution: Same as mine, but the others are more optimized in space complexity. Mine is O(n) due to recursion, while some using while loop has O(1).
+
+What to learn: Difference between recursion and while-loop, might be important in interviews.
