@@ -1,0 +1,6 @@
+Valid Parentheses (Easy) https://leetcode.com/problems/valid-parentheses/
+Initial thought: I was too quick to add a counter to count parenthese by positive and negative. Should have read the prompt more carefully. Anyway, I use stack, push left in and pop when see right. Reject when not match.
+
+Solution: Like mine
+
+What to learn: Not everything can be counted. lol
