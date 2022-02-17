@@ -1,0 +1,14 @@
+
+Implement strStr() (Easy) https://leetcode.com/problems/implement-strstr/
+Initial thought: This is pretty straightforward. Find first match, then keep on looking. If not, keep looking. O(n^2) time and O(n) space
+
+Solution: Same as mine.
+
+What to learn: Nothing
+
+Shortest Palindrome (Hard) Attempted https://leetcode.com/problems/shortest-palindrome/
+Initial thought: Brute-force. Keep adding from reverse and check for palindrome. But still bad. Not accepted due to time exceeded
+
+Solution: Find shortest palindrome, then add the rest. Use KMP algorithm.
+
+What to learn: KMP Algorithm. And not to try Hard right away lol.
