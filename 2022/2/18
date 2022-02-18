@@ -11,3 +11,10 @@ Initial thought: Easy as that. Check current node's val with target, if leaf, th
 Solution: Optimal solution
 
 What to learn: Write better dfs code. Shorter one maybe.
+
+Count and Say (Medium) https://leetcode.com/problems/count-and-say/
+Initial thought: EZ. Recursive is my right hand. n=1 return "1", otherwise find num of digit, append, then repeat. Done
+
+Solution: Optimal solution
+
+What to learn: I should try converting it to iterative.
