@@ -1,0 +1,6 @@
+Remove K Digits (Medium) https://leetcode.com/problems/remove-k-digits/
+Initial thought: Damn this is hard. It's not DP hard, but still hard af. First hour of thinking through this I can only think of brute force solution, which would remove one digit, compare it to the others, loop k times. O(m*n^2) time. Extremely inefficient. Fuck. Another hour is spent just debugging my shitty code and get a time exceeded. Then think again. Keep finding smallest number from left to right. That's it! Then after that we can combine it together. O(m*n) time. Much better! Finally no more time exceeded, but still brutally inefficient. I resort to using Discussion section for optimal solution...
+
+Solution: Minimum number from a list of digits turn out to be one where digit is increasing. Wish I had known that fact, but now I do. Use ascending number stack to maintain the order. Traverse through all the digits, push if smaller than top, pop if necessary, decreasing k in the meantime. After traversal, pop k times to get resultLen. Damn
+
+What to learn: Minimum number from a list of digits turn out to be one where digit is increasing. Using ascending number stack.
