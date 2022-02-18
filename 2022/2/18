@@ -4,3 +4,10 @@ Initial thought: Damn this is hard. It's not DP hard, but still hard af. First h
 Solution: Minimum number from a list of digits turn out to be one where digit is increasing. Wish I had known that fact, but now I do. Use ascending number stack to maintain the order. Traverse through all the digits, push if smaller than top, pop if necessary, decreasing k in the meantime. After traversal, pop k times to get resultLen. Damn
 
 What to learn: Minimum number from a list of digits turn out to be one where digit is increasing. Using ascending number stack.
+
+Path Sum (Easy) https://leetcode.com/problems/path-sum/
+Initial thought: Easy as that. Check current node's val with target, if leaf, then return (val == target) else if the go right/left is true return false. If nothing works return false.
+
+Solution: Optimal solution
+
+What to learn: Write better dfs code. Shorter one maybe.
