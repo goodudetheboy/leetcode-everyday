@@ -1,0 +1,6 @@
+Minimize Deviation in Array (Hard) https://leetcode.com/problems/minimize-deviation-in-array/
+Initial thought: A hard one. Damn. Okay, when it comes to ordering like this, Priority Queue comes to mind. Good. Get all odd and even into each PQ, with odd in ascending and even in descending. Keep max odd and min even. Decrease max even until less than min even. Increase min odd until less than min even. Got the algo correctly, semi-optimal, but code too complex. End up looking at Discussion... sad
+
+Solution: Same as mine, but instead of doing both odd and even, double the odd so everything is even. Use sorted set to contain all the number, and now just decrease the top even. Faster, less complex, shorter. Occam's Razor. Fuck.
+
+What to learn: Occam's Razor. If possible, keep shortening your approach. Back out when things get too complicated and get back to the drawing board and optimize more.
