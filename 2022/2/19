@@ -4,3 +4,10 @@ Initial thought: A hard one. Damn. Okay, when it comes to ordering like this, Pr
 Solution: Same as mine, but instead of doing both odd and even, double the odd so everything is even. Use sorted set to contain all the number, and now just decrease the top even. Faster, less complex, shorter. Occam's Razor. Fuck.
 
 What to learn: Occam's Razor. If possible, keep shortening your approach. Back out when things get too complicated and get back to the drawing board and optimize more.
+
+Search Insert Position (Easy) https://leetcode.com/problems/search-insert-position/
+Initial thought: Binary search. Nothing more nothing less. Still a bit struggle to get from idea to practice. Have to look at Discussion for an easy problem...
+
+Solution: Binary search.
+
+What to learn: Practice easy question on DS&A like this to get yourself familiar with getting theory good. Keep it simple. Think straight.
