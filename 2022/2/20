@@ -1,0 +1,6 @@
+Remove Covered Intervals (Medium) https://leetcode.com/problems/remove-covered-intervals/
+Initial thought: I really thought that there has to be some super secret approach to this problem, but no, it purely is just looking through everything for O(n^2). That's it. For a medium. A bit surprising. I actually thought of the optimal approach, which is to sort by start index and secondary is length, but I was too lazy to implement it (which could come down to O(nlogn)). Time run was better than 98.4% anyway.
+
+Solution: Just like the optimal I have said: sort by start index, with length as secondary
+
+What to learn: One thing to note though. When I was going through the Discussion section (obviously), there is this line that attracts my attention: "As for almost all problems related to intervals, we have to sort them first by the starting position." This knowledge is really useful. Holy shit. That's kinda huge
