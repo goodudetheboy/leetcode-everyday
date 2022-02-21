@@ -1,0 +1,6 @@
+Majority Element (Easy) https://leetcode.com/problems/majority-element/
+Initial thought: Counting + linear? HashMap we go. Add count of HashMap, then if found any bigger than length/2, return right away. O(n) time, O(n) space
+
+Solution: Fucking Boyer-Moore majority voting algorithm lmao. Count occurence of current seen, if current count is 0, switch candidate to num. Works because the number of majority of elements - others are more than 0.
+
+What to learn: Obscure algorithms, hidden under easy questions. That's pretty cool. And also Boyer-Moore voting algo, huh.
