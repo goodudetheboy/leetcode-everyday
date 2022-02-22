@@ -1,0 +1,6 @@
+3Sum Closest (Medium) https://leetcode.com/problems/3sum-closest/
+Initial thought: This one was similar to the one I did previously. The three sum one. 2Sum uses hashtable, 3Sum use TWO POINTERS. Very similar to the 3Sum, but easier. It's still two pointers with binary search. Run time O(n^2) and space O(n). Nice. First optimal Medium baby!
+
+Solution: Same as mine. Two pointers with binary search.
+
+What to learn: Two pointers problem. Practice more of this type of problems.
