@@ -4,3 +4,10 @@ Initial thought: Counting + linear? HashMap we go. Add count of HashMap, then if
 Solution: Fucking Boyer-Moore majority voting algorithm lmao. Count occurence of current seen, if current count is 0, switch candidate to num. Works because the number of majority of elements - others are more than 0.
 
 What to learn: Obscure algorithms, hidden under easy questions. That's pretty cool. And also Boyer-Moore voting algo, huh.
+
+Excel Sheet Column Number (Easy) https://leetcode.com/problems/excel-sheet-column-number/
+Initial thought: Converting base26 to base10, simple as that
+
+Solution: Like mine
+
+What to learn: Converting bases start with ZERO!
