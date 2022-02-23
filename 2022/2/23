@@ -4,3 +4,10 @@ Initial thought: This should be easy, I already did this once. Kinda struggling 
 Solution: Optimal solution. Just traverse through the graph and keep track of already seen nodes using HashMap<Integer,Node> and Queue for BFS.
 
 What to learn: Practice more on my BFS and DFS and smoother use of data structure.
+
+Valid Anagram (Easy) https://leetcode.com/problems/valid-anagram/
+Initial thought: Just counting problem. HashMap for the fat O(n). Traverse through first string to count characters. Then traverse through the second string to decrement characters. Less than 0 or not found will return false.
+
+Solution: Optimal solution!
+
+What to learn: Gotta code FASTER!
