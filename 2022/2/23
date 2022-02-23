@@ -1,0 +1,6 @@
+Clone Graph (Medium) https://leetcode.com/problems/clone-graph/ [REPEATED]
+Initial thought: This should be easy, I already did this once. Kinda struggling at first with using Stack and HashSet, then get bored and looked at my prev answer. Kinda lame but who cares lol.
+
+Solution: Optimal solution. Just traverse through the graph and keep track of already seen nodes using HashMap<Integer,Node> and Queue for BFS.
+
+What to learn: Practice more on my BFS and DFS and smoother use of data structure.
