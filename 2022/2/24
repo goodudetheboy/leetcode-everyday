@@ -1,0 +1,7 @@
+Sort List (Medium) https://leetcode.com/problems/sort-list/
+Initial thought: Loop through all list nodes, put values in an ArrayList, quick sort it, then loop through putting the sorted values back in. Easy O(nlogn) time and O(n) space. Not ideal, but it is what it is.
+
+Solution: Top down merge sort (O(logn) space) and bottom up merge sort (O(1) space). 
+
+What to learn: TODO: LEARN THESE METHODS LATER Top down merge sort and bottom up merge sort. MIGHT BE VERY IMPORTANT TO KNOW. 
+
