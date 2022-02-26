@@ -4,3 +4,10 @@ Initial thought: Medium? More like easy keklol. Just split strings up by "\\.", 
 Solution: Only need to traverse to max of two arrays len, but it still the same shit anyway.
 
 What to learn: Think it through AGAIN before getting to code.
+
+Tenth Line (Easy) https://leetcode.com/problems/tenth-line/
+Initial thought: Shell stuff? Gotta check Google lol
+
+Solution: Two solution. Either "$>awk '{if(NR==10) print $0}' file.txt" or "$>sed -n 10p file.txt". Sed is faster and takes less memory though.
+
+What to learn: awk and sed and head to print line from file. And shell script, cuz this looks fun.
