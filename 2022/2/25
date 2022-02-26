@@ -4,3 +4,10 @@ Initial thought: Didn't think through this. Was not in a mood. Got in a bad time
 Solution: Didn't read, but will read later
 
 What to learn: DFS/BFS and dynamic programming
+
+Letter Combinations of a Phone Number (Medium) https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Initial thought: I could easily do this with recursion, but I don't like the sounds of stack overflow at all. Tried to do it the iterative way. Got a HashMap with number and its corresponding char on the phone buttons. Traverse backwards of the number. Then add the new phone number to all combination to the old result. Rinse and repeat.
+
+Solution: Optimal solution!
+
+What to learn: Practice on doing iterative recursion, not recursion recursion.
