@@ -1,0 +1,6 @@
+Maximum Width of Binary Tree (Medium) https://leetcode.com/problems/maximum-width-of-binary-tree/
+Initial thought: This one is pretty hard. At first I thought I just need to check for max width in left and right tree, if null then add 1. But then upon submission there is much bigger problem with deeper tree. I start thinking tracking node offset from the root, but after 30 minutes devising an algo for it it just sounds pretty impossible to work that out well. I know we have to use BFS, but I can't incorporate it inside my algo. I resort to using seeing Discussion's solution...
+
+Solution: Pretty simple. BFS. Keep track of relative index of every node, according to how it was set up. Then check max diff in between levels of depth. I get the gist of it, but I still can't code it. Pretty tired now so I guess I'll review it later.
+
+What to learn: BFS and index tracking. And coding with Queue in Java.
