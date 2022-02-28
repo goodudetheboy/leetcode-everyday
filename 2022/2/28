@@ -1,0 +1,6 @@
+Summary Ranges (Easy) https://leetcode.com/problems/summary-ranges/
+Initial thought: Easy. Just check whether last one is smaller than current one by 1 or not. But this implementation is more troublesome than I thought. During implementation, I am not sure how to add the range with only one number when it's the last member of the array. So I loop back and decided to use the forward approach instead. Checking if next is bigger than 1 or not. And if the current is equal to the start, then I add it to it. This way, I don't have to care about any range with one number, and the code is shorter too.
+
+Solution: Optimal solution.
+
+What to learn: Even for easy problem, try to pseudocode first to weed out possible edge cases.
