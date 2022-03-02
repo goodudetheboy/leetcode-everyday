@@ -1,0 +1,6 @@
+Is Subsequence (Easy) https://leetcode.com/problems/is-subsequence/
+Intial thought: Easy. Get current char, traverse through t, if match, then up one. If cur is end then return true. If after traversal return cur == t.length
+
+Solution: Missed the case where input s is "".
+
+What to learn: Try looking for all possible edge cases.
