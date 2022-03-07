@@ -1,0 +1,6 @@
+Pow(x,n) (Medium) https://leetcode.com/problems/powx-n/
+Initial thought: Simple recursion. Just get x then multiple by pow(x,n-1). Stack overflow, unlucky. Then thought of splitting in half instead. Still stack overflow. Looked at Discussion, turns out you don't have to do the other half. Got done O(logn) time.
+
+Solution: Optimal solution.
+
+What to learn: Try to optimize recursion next time.
