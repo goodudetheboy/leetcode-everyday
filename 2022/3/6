@@ -1,0 +1,6 @@
+Merge Sorted Array (Easy) https://leetcode.com/problems/merge-sorted-array/
+Initial thought: This is easy, but I was getting sweaty like when I am doing Medium. Still got it though. First thought got stuck on traversing from start, not knowing how to push in a middle of immutable array. Unlucky. Then I back out and think from the back. And it works. Two pointers one start from end one start at end of array 1, then compare and swap, like normal. O(m+n) time, O(n) space.
+
+Solution: Optimal solution.
+
+What to learn: Think it through, from all directions. If you got stuck with something try backing out and think of other ways.
