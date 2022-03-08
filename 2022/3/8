@@ -1,0 +1,13 @@
+Linked List Cycle (Easy) https://leetcode.com/problems/linked-list-cycle/
+Initial thought: Already done by using flagging mechanism. Checked Discussion to see better way to do this.
+
+Solution: One slow pointer and fast pointer. Fast goes 2 times faster than slow. If fast meets slow we know it must be in a cycle. O(1) space.
+
+What to learn: Two pointers tech in Linked List
+
+Linked List Cycle II (Medium) https://leetcode.com/problems/linked-list-cycle-ii/
+Initial thought: Used HashMap. Still too slow. I wonder if the two pointers technique works here. Don't know how I can apply it. Checked Discussion...
+
+Solution: Again one slow and one fast. When meet, move head forward and slow forward, then when head meets slow then it must be the start. God damn crazy math here. Too lazy to explain why here :)
+
+What to learn: Two pointers tech in Linked List, more advanced stuff.
