@@ -1,0 +1,6 @@
+Remove Duplicates from Sorted List (Easy) https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+Initial thought: Easy. Two pointers problem. Move pointer when not done.
+
+Solution: Optimal solution.
+
+What to learn: Two pointers. Wasn't able to do followup (check TODO). Will do later, time constrained.
