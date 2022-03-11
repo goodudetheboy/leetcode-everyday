@@ -1,0 +1,6 @@
+Rotate List (Medium) https://leetcode.com/problems/rotate-list/
+Initial thought: Put everything in a list. Then find rotation by % size. Then add two part in it. Nice and simple. O(n) time and O(n) space. 
+
+Solution: Two pointers, haven't looked into yet because I'm busy now. Put this into TODO
+
+What to learn: Two pointers in LinkedList!
