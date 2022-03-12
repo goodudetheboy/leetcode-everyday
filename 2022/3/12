@@ -1,0 +1,6 @@
+Copy List with Random Pointer (Medium) https://leetcode.com/problems/copy-list-with-random-pointer/
+Initial thought: This should be easy to do with a HashMap. It is. O(n) time and O(n) space.
+
+Solution: Optimal
+
+What to learn: There are some solution with O(1) space. I wonder what that is.
