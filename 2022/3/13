@@ -1,0 +1,6 @@
+Longest Valid Parentheses (Hard) https://leetcode.com/problems/longest-valid-parentheses/
+Initial thought: I can just integrate the previous Easy into this one. Turns out it is not that simple. Then I think hard about cluster groupign and cluster all, but it is all too complicated to put down into code. Ended up looking at Solution...
+
+Solution: Push index of '(' (also -1 at start) then when see ')' minus distance. Fuck that was so simple.
+
+What to learn: index is also an option to keep track of. Remember the tree thing before. REMEMBER IT. Also this is DP so do this again maybe.
