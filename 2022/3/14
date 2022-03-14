@@ -4,3 +4,10 @@ Initial thought: Split it up like normal, then look for "..", keep track of root
 Solution: To optimize this, use a double-ended Queue, aka Deque, which is best of both world of Queue and Stack. With that, keep addLast and removeLast then use removeFirst to append to result.
 
 What to learn: Deque. And plenty of other obscure data structure that should be pretty useful.
+
+Remove Element (Easy) https://leetcode.com/problems/remove-element/
+Initial thought: Two pointers problem. Until the first one see val, then run the other pointers. Too complex. Then I thought about going two reverse pointer. Works better. Got a solution.
+
+Solution: One slow and fast pointer. Much cleaner solution. Sad :(
+
+What to learn: Two pointers technique, e.g. slow and fast pointers.
