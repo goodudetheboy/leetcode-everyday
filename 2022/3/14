@@ -1,0 +1,6 @@
+Simplify Path (Medium) https://leetcode.com/problems/simplify-path/
+Initial thought: Split it up like normal, then look for "..", keep track of root, blah blah too damn complicated. Got back after 1 hour. Eureka! It has to do with Stack! Implemented a stack. Optimal baby. O(n) time and O(n) space. Or so I thought... Problem is with O(n^2) of append at start, which is yucky.
+
+Solution: To optimize this, use a double-ended Queue, aka Deque, which is best of both world of Queue and Stack. With that, keep addLast and removeLast then use removeFirst to append to result.
+
+What to learn: Deque. And plenty of other obscure data structure that should be pretty useful.
