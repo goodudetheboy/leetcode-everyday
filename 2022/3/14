@@ -11,3 +11,10 @@ Initial thought: Two pointers problem. Until the first one see val, then run the
 Solution: One slow and fast pointer. Much cleaner solution. Sad :(
 
 What to learn: Two pointers technique, e.g. slow and fast pointers.
+
+Find Words That Can Be Formed by Characters (Easy) https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+Initial thought: This uses HashMap, but is quite tricky. I kinda don't wanna do the cloning during checking words, so do two pass when checking instead. Got everything.
+
+Solution: Cloning is faster lmao.
+
+What to learn: Try both ways: cloning and two passes.
