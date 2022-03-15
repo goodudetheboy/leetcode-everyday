@@ -1,0 +1,6 @@
+Minimum Remove to Make Valid Parentheses (Medium) https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+Inital thought: Just use Stack. Push pos of ( and check ), then remove all ( aftewards left in stack. O(n) time, O(n) space.
+
+Solution: Can get to O(1) space. Didn't read them thru though, cuz I'm sleepy now.
+
+What to learn: Optimize Stack with count.
