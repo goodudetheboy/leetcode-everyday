@@ -1,0 +1,6 @@
+Validate Stack Sequences (Medium) https://leetcode.com/problems/validate-stack-sequences/
+Initial thought: I thought we should use HashMap, but instead we have to simulate Stack. So Stack I went. My algo is pretty complex, but overall O(n) time and O(n) space.
+
+Solution: Better sol using count.
+
+What to learn: Simulation problem and Stack problem. Will put this in TODO to look at sol.
