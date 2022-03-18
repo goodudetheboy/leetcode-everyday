@@ -1,0 +1,6 @@
+Concatenation of Array (Easy) https://leetcode.com/problems/concatenation-of-array/
+Initial thought: yeah it's just too easy.
+
+Solution: One pass assing i and n+i of result
+
+What to learn: Nothing.
