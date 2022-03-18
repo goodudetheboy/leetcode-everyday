@@ -4,3 +4,10 @@ Initial thought: yeah it's just too easy.
 Solution: One pass assing i and n+i of result
 
 What to learn: Nothing.
+
+Merge Intervals (Medium) https://leetcode.com/problems/merge-intervals/
+Initial thought: Just normal sorting then adding with checking last. Good ol' O(nlogn) time and O(n) space
+
+Solution: Optimal
+
+What to learn: ArrayList to Array optimization.
