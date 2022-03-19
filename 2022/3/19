@@ -4,3 +4,10 @@ Inital thought: I really struggle with this shit. I thought of a SortedSet and a
 Solution: Use stack of stacks. Two HashMap, one contains num->frequency, and one contains the frequency->stack, push O(1) and pop O(1). Interesting. Stack of stacks huh.
 
 What to learn: Stack of stacks. And some cool Java hashMap related stuff like computeIfAbsent or getOrDefault.
+
+Binary Tree Inorder Traversal (Easy) https://leetcode.com/problems/binary-tree-inorder-traversal/
+Initial thought: Recursion. But I don't wanna do that. Then I just move to doing iteration with stack. Have no idea. Looked at solution.
+
+Solution: Just push every left most one to stack, then it's just like recursion
+
+What to learn: Iterative traversal. Also remember to do preorder and postorder.
