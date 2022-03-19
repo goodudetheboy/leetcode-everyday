@@ -1,0 +1,6 @@
+Maximum Frequency Stack (Hard) https://leetcode.com/problems/maximum-frequency-stack/
+Inital thought: I really struggle with this shit. I thought of a SortedSet and a HashMap combination, O(logn) push and O(1) pop, but the logic just doesn't work out. Resort to looking at solution.
+
+Solution: Use stack of stacks. Two HashMap, one contains num->frequency, and one contains the frequency->stack, push O(1) and pop O(1). Interesting. Stack of stacks huh.
+
+What to learn: Stack of stacks. And some cool Java hashMap related stuff like computeIfAbsent or getOrDefault.
