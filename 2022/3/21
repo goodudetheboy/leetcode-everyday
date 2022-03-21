@@ -1,0 +1,6 @@
+Excel Sheet Column Title (Easy) https://leetcode.com/problems/excel-sheet-column-title/
+Initial thought: Similar problem already done. Just convert back to other one. One diff is that I need to minus to normalize it to 0.
+
+Solution: Optimal.
+
+What to learn: Nothing
