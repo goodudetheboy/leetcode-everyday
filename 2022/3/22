@@ -1,0 +1,6 @@
+Smallest String With A Given Numeric Value (Medium) https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+Initial thought: Greedy. Scary. But conceptually it's pretty easy. Just build from the back with z and the rest with a, middle is whatever left.
+
+Solution: Optimal, but didn't code it out though.
+
+What to learn: Pick up on Greedy yo.
