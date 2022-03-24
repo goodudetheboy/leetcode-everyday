@@ -1,0 +1,13 @@
+Count Odd Numbers in an Interval Range (Easy) https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+Initial thought: Some easy math manipulation. Just assume that both range is odd and return accordingly. O(1) time O(1) space
+
+Solution: Optimal.
+
+What to learn: Maybe optimization.
+
+Average Salary Excluding the Minimum and Maximum Salary (Easy) https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+Initial thought: Loop through array keeping track of min and max. O(n) time, O(n) space.
+
+Solution: Optimal.
+
+What to learn: Keep an eye on class type! (double, int, blah blah)
