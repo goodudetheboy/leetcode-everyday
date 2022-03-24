@@ -1,0 +1,6 @@
+Boats to Save People (Medium) https://leetcode.com/problems/boats-to-save-people/
+Inital thought: Yeah typical two pointers problem. Left, right, then if sum is >= limit, then we left++, then just right-- with total++. Ez. Though I was watching Twitch stream so I took a bit long doing this lol.
+
+Solution: Optimal
+
+What to learn: Think simple!
