@@ -4,3 +4,17 @@ Initial thought: I thought of just going from startValue to target. Whenever les
 Solution: Go from target to startValue. Way easier. Just div 2, if not %2 then add 1 then continue until target less than target Value, then just done
 
 What to learn: Look both ways when doing greedy problems.
+
+Subtract the Product and Sum of Digits of an Integer (Easy) https://leetcode.com/problems/number-of-1-bits/
+Initial thought: Ez lol. Mask and add.
+
+Solution: Optimal.
+
+What to learn: Keep in mind that interviews also has bitwise ops.
+
+Subtract the Product and Sum of Digits of an Integer (Easy) https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+Initial thought: Another ez one KEKLUL. Mod 10 and add.
+
+Solution: Optimal.
+
+What to learn: Nothing.
