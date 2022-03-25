@@ -18,3 +18,10 @@ Initial thought: Another ez one KEKLUL. Mod 10 and add.
 Solution: Optimal.
 
 What to learn: Nothing.
+
+Two City Scheduling (Medium) https://leetcode.com/problems/two-city-scheduling/
+Initial thought: Just get the smallest out of two. That would suck tho. So stop thinking then go back. Sort by diff! Then just get half for A and half for B. Done!
+
+Solution: Optimal.
+
+What to learn: Some cool sorting in Greedy problem.
