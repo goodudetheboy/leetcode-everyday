@@ -1,0 +1,6 @@
+Broken Calculator (Medium) https://leetcode.com/problems/broken-calculator/
+Initial thought: I thought of just going from startValue to target. Whenever less than half of target, multiply 2, else minus one. It works... for most of it. Problem is for big gaps between startValue and target. It cant get a good grasp of what to build up from. Looked at Solution...
+
+Solution: Go from target to startValue. Way easier. Just div 2, if not %2 then add 1 then continue until target less than target Value, then just done
+
+What to learn: Look both ways when doing greedy problems.
