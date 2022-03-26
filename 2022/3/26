@@ -4,3 +4,19 @@ Initial thought: It's binary search lol
 Solution: Optimal.
 
 What to learn: I should redo every search algo.
+
+--------------------------
+Largest Perimeter Triangle (Easy) https://leetcode.com/problems/largest-perimeter-triangle/
+Initial thought: I was quite confused by the math at first, but I just figured it out. If we sort it, then we just need to check the largest tri s.t. sum of two smaller is larger than the largest. O(n) and O(1).
+
+Solution: Optimal.
+
+What to learn: Greedy problems.
+
+--------------------------
+Find Nearest Point That Has the Same X or Y Coordinate (Easy) https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+Initial thought: Just easy for loop and min keeping. Easy O(n) and O(1). I didn't read about the validity part and got one test cases wrong. Should have read everything lol.
+
+Solution: Optimal.
+
+What to learn: Read your prompt CAREFULLY.
