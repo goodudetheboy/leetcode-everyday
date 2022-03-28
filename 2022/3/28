@@ -1,0 +1,18 @@
+Sign of the Product of an Array (Easy) https://leetcode.com/problems/sign-of-the-product-of-an-array/
+--------------------------
+Can Make Arithmetic Progression From Sequence (Easy) https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+--------------------------
+Happy Number (Easy) https://leetcode.com/problems/happy-number/
+Initial thought: Thought this one was gonna be EZPZ, just need to use HashSet, but I overlooked the problem. We can solve this using Floyd's cycle finding algo, and that shows up a whole damn lot in my previous leetcode. Damn.
+
+Solution: Practically optimal, but could be better with Floyd's cycle finding.
+
+What to learn: Floyd's cycle finding.
+
+--------------------------
+Check if One String Swap Can Make Strings Equal (Easy) https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+Initial thought: Pretty easy conceptually, but didn't think through every edge cases lmao. Sleepy af just wanna finish shit
+
+Solution: Optimal.
+
+What to learn: Think through all cases.
