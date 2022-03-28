@@ -16,3 +16,11 @@ Initial thought: Pretty easy conceptually, but didn't think through every edge c
 Solution: Optimal.
 
 What to learn: Think through all cases.
+
+--------------------------
+Search in Rotated Sorted Array II (Medium) https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+Intial thought: In a bit of a rush now, so just do this linearly lol. Surprisingly this is just as fast as the other one. Simple but cool. Probably not gonna be a real world problem though.
+
+Solution: Some thing to do with checking the first element. I thought of this too but like I said I'm in a bit of a rush. Will do this again tho.
+
+What to learn: This problem.
