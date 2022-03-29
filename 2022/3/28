@@ -24,3 +24,11 @@ Intial thought: In a bit of a rush now, so just do this linearly lol. Surprising
 Solution: Some thing to do with checking the first element. I thought of this too but like I said I'm in a bit of a rush. Will do this again tho.
 
 What to learn: This problem.
+
+--------------------------
+Find the Duplicate Number (Medium) https://leetcode.com/problems/find-the-duplicate-number/
+Initial thought: Sorting would work. But O(nlogn). HashSet would work. But O(n) space. No idea how else I'm gonna approach this. Looked at Solution...
+
+Solution: So fucking smart lmao. Use Array as a HashMap, since the number is constrained between 1 and n. Fuck me. I should have read the prompt carefully lmao. There's a binary search sol that uses number of value, but that's not as cool.
+
+What to learn: Array as HashMap. AND READ THE PROMPT CAREFULLY.
