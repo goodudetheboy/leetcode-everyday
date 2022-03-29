@@ -29,6 +29,6 @@ What to learn: This problem.
 Find the Duplicate Number (Medium) https://leetcode.com/problems/find-the-duplicate-number/
 Initial thought: Sorting would work. But O(nlogn). HashSet would work. But O(n) space. No idea how else I'm gonna approach this. Looked at Solution...
 
-Solution: So fucking smart lmao. Use Array as a HashMap, since the number is constrained between 1 and n. Fuck me. I should have read the prompt carefully lmao. There's a binary search sol that uses number of value, but that's not as cool.
+Solution: So fucking smart lmao. Use Array as a HashMap, since the number is constrained between 1 and n. Fuck me. I should have read the prompt carefully lmao. There's a binary search sol that uses number of value, but that's not as cool. This thing use Floyd's Tortoise and Hare too!
 
 What to learn: Array as HashMap. AND READ THE PROMPT CAREFULLY.
