@@ -12,3 +12,8 @@ Initial thought: Damn this has to be at least O(nlogn), I gotta sort something b
 Solution: Optimal.
 
 What to learn: Monotonic stack.
+
+--------------------------
+Sum of All Odd Length Subarrays (Easy) https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+--------------------------
+Richest Customer Wealth (Easy) https://leetcode.com/problems/richest-customer-wealth/
