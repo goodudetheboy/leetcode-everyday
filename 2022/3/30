@@ -4,3 +4,11 @@ Initial thought: When I first opened this, I thought this was super hard. So I s
 Solution: Optimal. But the solution used array instead of hashmap, since we are dealing with count in ascii here, so we can exploit this instead of using the heavy lifting of HashMap. Also much cleaner code than I do, lol.
 
 What to learn: Array for use instead of hashmap when dealing with ascii. And Math.max for cleaner code.
+
+--------------------------
+Next Greater Element I (Easy) https://leetcode.com/problems/next-greater-element-i/
+Initial thought: Damn this has to be at least O(nlogn), I gotta sort something blah blah. But I know it's not that simple. So I took a peek at the Related Topics section and BAM I knew it. New shit I haven't learnt. Monotonic stack. Struggled a bit but figured it out tho. Keep index of nums1 mapped and push from the left to right of nums2 to a decreasing monotonic stack. Feels pretty good. O(nums1 + nums2) time and space baby.
+
+Solution: Optimal.
+
+What to learn: Monotonic stack.
