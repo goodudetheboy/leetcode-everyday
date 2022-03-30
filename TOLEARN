@@ -1,3 +1,4 @@
 Floyd's Cycle-Finding Algorithm (https://leetcode.com/problems/linked-list-cycle/)
 If constrained in n, use array as HashMap (https://leetcode.com/problems/find-the-duplicate-number/)
 Binary search and variants (https://leetcode.com/problems/search-a-2d-matrix/)
+Monotonic Stack for finding next greater/lesser element (https://leetcode.com/problems/next-greater-element-i/)
