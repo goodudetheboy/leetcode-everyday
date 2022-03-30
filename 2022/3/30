@@ -1,0 +1,6 @@
+Partition Labels (Medium) https://leetcode.com/problems/partition-labels/
+Initial thought: When I first opened this, I thought this was super hard. So I stopped doing it for some days and come back. And bam, easy. Did use hint tho. Anyway, just use map to store last, then greedily go through every char and get the last, until cur i is equal to end partition. Pretty easy O(n) time and space.
+
+Solution: Optimal. But the solution used array instead of hashmap, since we are dealing with count in ascii here, so we can exploit this instead of using the heavy lifting of HashMap. Also much cleaner code than I do, lol.
+
+What to learn: Array for use instead of hashmap when dealing with ascii. And Math.max for cleaner code.
