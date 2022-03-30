@@ -1,0 +1,6 @@
+Search a 2D Matrix (Medium) https://leetcode.com/problems/search-a-2d-matrix/
+Initial thought: I fucking hate binary search. I know we need to bin search col, then row, but the implementation is fucked. Used solution.
+
+Solution: Optimal.
+
+What to learn: FUCK BINARY SEARCH.
