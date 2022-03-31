@@ -1,0 +1,6 @@
+Minimum Domino Rotations For Equal Row (Medium) https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+Initial thought: Damn greedy problem. Again? Thought of finding modes, but that would be too shitty. Then I think of just counting stuff. I realize that this is bound between 1-6, so I can use that to keep count. Then I don't know what to do the count I have. Took a little peek (hint) in the Discussion session. I have to store same array too. Then if up + down - same is equal to len, that would be the one.
+
+Solution: Optimal.
+
+What to learn: Reasoning with greedy problems.
