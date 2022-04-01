@@ -55,11 +55,19 @@ public class Solution {
                 e.printStackTrace();  
             }  
             return str;  
-        }  
+        }
+        
+        int[] nextIntArray(int size) {
+            int[] nextArr = new int[size];
+            for (int i=0;i<size;i++) {
+                nextArr[i] = nextInt();
+            }
+            return nextArr;
+        }
     }  
     static int MOD=1000000000+7; 
-     
-    //Brian Kernighan’s Algorithm 
+    
+    //Brian Kernighans Algorithm 
     static long countSetBits(long n){ 
         if(n==0) return 0; 
         return 1+countSetBits(n&(n-1)); 
@@ -133,28 +141,18 @@ public class Solution {
             ans*=(1.0-(Double)1.0/p); 
         } 
         return (long)ans; 
-    } 
-
-    String output = "";
+    }
 
     //---------------------------CODE STARTS HERE-------------------------------//
     public static void main (String[] args) throws java.lang.Exception { 
         FastReader sc = new FastReader(); 
 
 		final int cases;
-		try {
-			cases = sc.nextInt();
+		cases = sc.nextInt();
 			  
-			Solver solver = new Solver();
-			for (int i = 0; i < cases; i++) {
-                // args1 = ...
-                // args2 = ...
-                // ...
-				solver.solve(br.readLine()/** arg1, arg2... */);
-			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
+		Solver solver = new Solver();
+		for (int i = 0; i < cases; i++) {
+			solver.solve(sc.nextLine(), i);
 		}
 		System.out.println(output);
     } 
@@ -162,11 +160,11 @@ public class Solution {
 
 class Solver {
     
-	public void solve(String input /**arg1, arg2... */) {
+	public void solve(String input, int case) {
 	    
-		Solution.output.concat(input);	
+	    // Add to output by "Cases #[case]"
+	    Solution.output.concat("Cases #" + (case+1));
+		Solution.output.concat(input);
 	}
 
 }
-
-
