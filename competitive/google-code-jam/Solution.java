@@ -89,7 +89,7 @@ class Solver {
 	public void solve(String input, int caseNo) { // solve(arg1, arg2..., caseNo)
 	    
 	    // Add to output by "Cases #[case]"
-	    Solution.output.concat("Cases #" + (case+1));
+	    Solution.output.concat("Cases #" + (caseNo+1));
 	}
 
 }
