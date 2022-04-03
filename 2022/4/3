@@ -1,0 +1,6 @@
+Next Permutation (Medium) https://leetcode.com/problems/next-permutation/
+Initial thought: I thought about finding first lesser element, then shifting right. It works... for the most part. Then but it doesn't work. So I resorted to Solution...
+
+Solution: I was halfway there. After finding, swap the closest larger. Then reverse. Damn why didn't I think of that.
+
+What to learn: These perms problem might be a problem.
