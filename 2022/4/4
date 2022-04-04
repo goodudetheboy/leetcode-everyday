@@ -1,0 +1,6 @@
+Swapping Nodes in a Linked List (Medium) https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+Initial thought: Same idea as removing k-th node from the end. Have a little k-space before traversal. That saves us from having to store O(n) space. O(n) time and O(1) space
+
+Solution: Optimal.
+
+What to learn: Nothing.
