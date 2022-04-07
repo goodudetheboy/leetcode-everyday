@@ -4,3 +4,19 @@ Initial thought: Too tired, resorted to using Solution.
 Solution: idk lol
 
 What to learn: Nothing. TODO this problem later.
+
+--------------------------
+Squares of a Sorted Array (Easy) https://leetcode.com/problems/squares-of-a-sorted-array/
+Initial thought: Just need to find the first positive, and compare the two sides. Two pointers solution.
+
+Solution: Better, just start from two heads, and put from reverse. Damn why didn't I think of this?
+
+What to learn: Try to look both ways and optimize your code, if you can.
+
+--------------------------
+Rotate Array (Medium) https://leetcode.com/problems/rotate-array/
+Initial thought: I'm too damn tired now. Just add another result array, and then rotate, and then copy back. Not the best but the most straightforward lol.
+
+Solution: Didn't read yet.
+
+What to learn: Array rotating shit. Might be important.
