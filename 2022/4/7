@@ -22,3 +22,9 @@ Solution: Optimal.
 What to learn: Variation of binary search. Fuck bin search in particular.
 
 --------------------------
+Longest Substring Without Repeating Characters (Medium) https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Initial thought: Just keep track of using HashSet. But then I found out some problem and switched to using HashMap instead. But Discussion use HashSet, but conceptually I still got the optimal solution.
+
+Solution: Optimal.
+
+What to learn: HashSet and HashMap and where to apply them.
