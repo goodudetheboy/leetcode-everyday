@@ -4,3 +4,21 @@ Initial thought: Simple reverse priority queue problem.
 Solution: Optimal.
 
 What to learn: PQ problem and where and how to apply it.
+
+--------------------------
+Reverse Words in a String III (Easy) https://leetcode.com/problems/reverse-words-in-a-string-iii/
+Initial thought: Just find until I find an ' ' and reverse array. Then add to string array. But then you can implement a stack. Fuck I didn't thought of that. THen I implemented a stack and the runtime was even worse.
+
+Solution: Optimal.
+
+What to learn: THINK TWICE IF IT GETS TOO YUCKY. EVERYTHING CAN BE SOLVED REALLY SMOOTHLY. IF THE ALGO IS NOT SMOOTH IT'S PROBABLY NOT EFFICIENT.
+
+--------------------------
+Two Sum II - Input Array Is Sorted (Medium) https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+Initial thought: Ez two pointer problem. I also thought of finding the index of target/2, but that was too complicated, so I dropped that idea lol.
+
+Solution: Optimal.
+
+What to learn: Variation of binary search. Fuck bin search in particular.
+
+--------------------------
