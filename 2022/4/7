@@ -28,3 +28,11 @@ Initial thought: Just keep track of using HashSet. But then I found out some pro
 Solution: Optimal.
 
 What to learn: HashSet and HashMap and where to apply them.
+
+--------------------------
+Kth Largest Element in a Stream (Easy) https://leetcode.com/problems/kth-largest-element-in-a-stream/
+Initial thought: Easy. Just add heap. Then add then just to top. Done.
+
+Solution: Optimal. In spirit I guess.
+
+What to learn: PQ application.
