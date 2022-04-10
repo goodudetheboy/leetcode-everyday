@@ -4,3 +4,4 @@ Binary search and variants (https://leetcode.com/problems/search-a-2d-matrix/)
 Monotonic Stack for finding next greater/lesser element (https://leetcode.com/problems/next-greater-element-i/)
 Use Deque over Stack in coding interview (https://leetcode.com/problems/baseball-game/)
 Quickselect (Hoare's selection algorithm) (https://leetcode.com/problems/top-k-frequent-elements/)
+Sort HashMap by using PQ
