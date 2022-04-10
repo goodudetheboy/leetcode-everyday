@@ -1,0 +1,6 @@
+Top K Frequent Elements (Medium) https://leetcode.com/problems/top-k-frequent-elements/
+Initial thought: The direct approach here is just keep frequency in a HashMap and then sort by key value. I don't know how to sort a hashmap, so I resorted to using Solution. 
+
+Solution: Sort hashmap by putting them in a Heap (PQ). Also there is a much more efficient solution called Quickselect (Hoare's selection algorithm). I should read up on this
+
+What to learn: Sorting HashMap and QuickSelect
