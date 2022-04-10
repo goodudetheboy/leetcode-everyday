@@ -1,0 +1,6 @@
+Baseball Game (Easy) https://leetcode.com/problems/baseball-game/
+Initial thought: Stack impl. Easy. I used ArrayList instead tho. It seems that performance are similar, but in interview they probably want me to use Stack.
+
+Solution: Optimal.
+
+What to learn: Interesting insight from the comment section of Solution. I should use Deque (double-ended queue) instead of Stack for performance reason, and that it will look better in interview also.
