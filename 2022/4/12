@@ -1,0 +1,6 @@
+Game of Life (Medium) https://leetcode.com/problems/game-of-life/
+Initial thought: Simple game simulation problem. Just duplicate board, keep track of changes, then update. Easy peasy lemon squeezy.
+
+Solution: Optimal.
+
+What to learn: Simlation problem. Also matrix problem.
