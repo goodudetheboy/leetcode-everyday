@@ -5,3 +5,4 @@ Monotonic Stack for finding next greater/lesser element (https://leetcode.com/pr
 Use Deque over Stack in coding interview (https://leetcode.com/problems/baseball-game/)
 Quickselect (Hoare's selection algorithm) (https://leetcode.com/problems/top-k-frequent-elements/)
 Sort HashMap by using PQ
+Try using array as your Hash table if you need O(1) space (https://leetcode.com/problems/first-missing-positive/)
