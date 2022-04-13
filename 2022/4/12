@@ -4,3 +4,11 @@ Initial thought: Simple game simulation problem. Just duplicate board, keep trac
 Solution: Optimal.
 
 What to learn: Simlation problem. Also matrix problem.
+
+--------------------------
+Spiral Matrix II (Medium) https://leetcode.com/problems/spiral-matrix-ii/
+Initial thought: Simple simulation problem. Just switch when find edge.
+
+Solution: Optimal. But better one in Solution. Add your offset edge dir to a list, and when changing dir get offset array based on index of dir. I got an idea there but didn't fully span out, so damn.
+
+What to learn: Cool simulation problem.
