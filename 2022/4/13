@@ -1,0 +1,6 @@
+First Missing Positive (Hard) https://leetcode.com/problems/first-missing-positive/
+Initial thought: Initially I really thought that this is not Hard at all. All we need to do is to keep a HashSet of the number and then start finding from i=1. But boy was I wrong. My time complexity was optimal, but not my space. It's supposed to be O(1) for space. WTF???
+
+Solution: Since the missing value can only be from 1 to nums.length, we can use the ARRAY itself as the HASHTABLE. ZAMN!! Turn every negative number to 0, then loop through it again, using nums[nums[i]] = -1 * nums[i]. Then loop through it again, any index not negative is what we are looking for!!!
+
+What to learn: Try using array as your Hash table if you need O(1) space.
