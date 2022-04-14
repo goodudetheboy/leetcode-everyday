@@ -7,3 +7,11 @@ Initial thought: Damn I was thinking too complicated. Add this in the middle of 
 Solution: Just find the one that you need to add that is null then you're done. Jesus complicated af.
 
 What to learn: THINK SIMPLE!
+
+--------------------------
+Zigzag Conversion (Medium) https://leetcode.com/problems/zigzag-conversion/
+Initial thought: I have a feeling this is a math problem, but I'm bad at math lmao. So I just laid out a matrix and laid input string zigzag-ly. Then just loop through and StringBuilder it.
+
+Solution: Optimal, since it's O(n), but practically it's slow lol. Looked at Solution, and the optimal problem is to visit String like as if i'm matrix visiting it, but do it mathematically.
+
+What to learn: Math-based problem.
