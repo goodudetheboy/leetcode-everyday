@@ -1,0 +1,6 @@
+Trim a Binary Search Tree (Medium) https://leetcode.com/problems/trim-a-binary-search-tree/
+Initial thought: Damn I think I'm getting dumber the more I do leetcode. I can't even think of this shit in terms of recursive, even though the approach is super straight foward. FUCK. Resorted to Solution.
+
+Solution: If node is more or less, we just need to take the left or right respectively. Damn.
+
+What to learn: Think simpler!!!
