@@ -1,0 +1,6 @@
+Convert BST to Greater Tree (Medium) https://leetcode.com/problems/convert-bst-to-greater-tree/
+Initial thought: Solved this using recursion. O(n) time + space
+
+Solution: Fucking Reverse Morris Inorder Traversal wtf. O(1) space traversal. Have to learn about this shit.
+
+What to learn: Reverse Morris Inorder Traversal
