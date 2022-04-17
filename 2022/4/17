@@ -1,0 +1,6 @@
+Increasing Order Search Tree (Easy) https://leetcode.com/problems/increasing-order-search-tree/
+Initial thought: Damn I'm struggling with recursion again. I used to be fuckign crazy with recursion, but this shit has me balling. Solved this optimally O(n) and O(n) with stack
+
+Solution: Can use recursion. Damn I"m getting old. Also there is a much more optimal solution with O(h) space complexity, with h as height of bst
+
+What to learn: Recursion. Damn.
