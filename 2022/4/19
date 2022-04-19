@@ -1,0 +1,6 @@
+Recover Binary Search Tree (Medium) https://leetcode.com/problems/recover-binary-search-tree/
+Initial thought: BST and Recursion yet again. I thought of an O(1) solution, but since my recursion intuition has disappeared for whatever reason, I didn't plow through it, I suppose. Looked at Disc...
+
+Solution: prev, first, second, then add when lesser
+
+What to learn: Recursion intuition.
