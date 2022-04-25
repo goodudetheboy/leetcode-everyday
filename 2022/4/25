@@ -1,0 +1,6 @@
+Peeking Iterator (Medium) https://leetcode.com/problems/peeking-iterator/
+Initial thought: Just use deque, then flush everything inside iterator, then act like a normal queue.
+
+Solution: optimal, kinda.
+
+What to learn: nothing
