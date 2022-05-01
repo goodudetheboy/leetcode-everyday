@@ -1,0 +1,6 @@
+Find First and Last Position of Element in Sorted Array (Medium) https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+Initial thought: I use an O(n) one first, but that's pussy, so I use the two binary search approach. Works pretty good.
+
+Solution: Optimal, I think. There's the one BS approach but who cares amirite
+
+What to learn: I really need to step up my BS game.

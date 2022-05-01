@@ -7,8 +7,8 @@ LC profile: https://leetcode.com/goodudetheboy/
 
 ### Total LC questions:
 - ~~LeetCode 100Q~~ - 2022/03/30
-- **LeetCode 150Q**
-- LeetCode 200Q
+- ~~LeetCode 150Q~~ - 2022/05/01
+- **LeetCode 200Q**
 - LeetCode 250Q
 - LeetCode 300Q
 - LeetCode 400Q
