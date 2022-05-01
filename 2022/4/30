@@ -1,0 +1,6 @@
+Backspace String Compare (Easy) https://leetcode.com/problems/backspace-string-compare/
+Initial thought: I was gonna do the O(1) space complexity, but I have been getting rusty, so fuck this shit I'm doing O(m+n).
+
+Solution: Optimal time. Same space approach.
+
+What to learn: You have been getting a bit rusty boy.
