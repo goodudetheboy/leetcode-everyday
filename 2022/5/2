@@ -1,0 +1,6 @@
+Sort Array By Parity (Easy) https://leetcode.com/problems/sort-array-by-parity/
+Initial thought: I went for an O(n) space solution.
+
+Solution: Optimal time, obviously, but not optimal space. Inplace is possible keklul.
+
+What to learn: Inplace shit lmao.
