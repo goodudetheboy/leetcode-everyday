@@ -1,0 +1,6 @@
+Single Number III (Medium) https://leetcode.com/problems/single-number-iii/
+Initial thought: Bit manipulation problem. Problem is, idk how to do bit manipulation, so I just went for Set approach. O(n) time and space.
+
+Solution: Use XOR, then some complicated ass shit to split the two number from the XOR. Lame shit, but might be important during coding interview. idk.
+
+What to learn: XOR duplicate detection. O(1) space.
