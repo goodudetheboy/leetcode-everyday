@@ -1,0 +1,6 @@
+Deepest Leaves Sum (Medium) https://leetcode.com/problems/deepest-leaves-sum/
+Initial thought: This was pretty easy. I used DFS approach. Just remove the sum when you check deepest depth.
+
+Solution: Optimal, I think. There is a much more cooler iterative approach using BFS, and I should really look into BFS traversal.
+
+What to learn: BFS
