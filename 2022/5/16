@@ -4,3 +4,11 @@ Initial thought: Simple BFS. But I was stuck a bit becuase I didn't think keepin
 Solution: Optimal. I think there's Djikstra but fuck that shit amirite.
 
 What to learn: BFS.
+
+--------------------------
+Get Equal Substrings Within Budget (Medium) https://leetcode.com/problems/get-equal-substrings-within-budget/
+Initial thought: Sliding windows problem. But damn the result is yucky. My implementation sucks. I think I have to put this in TOLEARN.
+
+Solution: I think they saved sum from previous ones. Then just start from that from next time instead of going back.
+
+What to learn: This problem.
