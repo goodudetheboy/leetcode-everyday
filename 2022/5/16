@@ -1,0 +1,6 @@
+Shortest Path in Binary Matrix (Medium) https://leetcode.com/problems/shortest-path-in-binary-matrix/
+Initial thought: Simple BFS. But I was stuck a bit becuase I didn't think keeping track of visited was necessary. But it was. So I put it in. Ez
+
+Solution: Optimal. I think there's Djikstra but fuck that shit amirite.
+
+What to learn: BFS.
