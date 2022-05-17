@@ -4,3 +4,11 @@ Initial thought: Easy level question.
 Solution: Optimal.
 
 What to learn: Despite this, the Solution to this contains every single approaches to finding value inside a unique binary tree. Very useful if I want to go over this.
+
+--------------------------
+Find Peak Element (Medium) https://leetcode.com/problems/find-peak-element/
+Initial thought: Simple traversal from start to end until you find a first decreasing. But this slow. So I switched to binary search. If left < right just move mid to left. Done.
+
+Solution: Optimal.
+
+What to learn: Peak finding. Very interesting stuff, from what I read in the comments.
