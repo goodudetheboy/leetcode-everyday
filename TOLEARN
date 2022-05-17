@@ -9,3 +9,4 @@ Try using array as your Hash table if you need O(1) space (https://leetcode.com/
 Reverse Morris Inorder Traversal (https://leetcode.com/problems/convert-bst-to-greater-tree/)
 Binary tree traversal techniques (https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 Peak finding (https://leetcode.com/problems/find-peak-element/)
+Sentinel head (https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)

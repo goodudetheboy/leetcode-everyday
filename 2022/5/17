@@ -12,3 +12,11 @@ Initial thought: Simple traversal from start to end until you find a first decre
 Solution: Optimal.
 
 What to learn: Peak finding. Very interesting stuff, from what I read in the comments.
+
+--------------------------
+Remove Duplicates from Sorted List II (Medium) https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+Initial thought: Repeat from previous, since I wasn't able to do it then. Just traverse through and drop head when you see shit.
+
+Solution: Optimal time, semi-optimal. There's a sentinel head solution that use O(1) space. Very neat.
+
+What to learn: Sentinel head.
