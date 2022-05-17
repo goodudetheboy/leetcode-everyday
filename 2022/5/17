@@ -20,3 +20,11 @@ Initial thought: Repeat from previous, since I wasn't able to do it then. Just t
 Solution: Optimal time, semi-optimal. There's a sentinel head solution that use O(1) space. Very neat.
 
 What to learn: Sentinel head.
+
+--------------------------
+Interval List Intersections (Medium) https://leetcode.com/problems/interval-list-intersections/
+Initial thought: Damn I'm thinking way too complicated again. I know to use the two pointers, but ik shit went AWOL when my algo implementation is getting fucked up. Resorted to using Solution...
+
+Solution: Just check two at a time. Find max and min of two endpoints, if two new endpoints are valid, then add. Move pointer based on end endpoints.
+
+What to learn: Think less complicated.
