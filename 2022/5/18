@@ -1,0 +1,6 @@
+Number of Provinces (Medium) https://leetcode.com/problems/number-of-provinces/
+Initial thought: Since I'm practicing BFS, I chose to do this instead. Just have a queue every single time you have that. O(n) time and O(n) space.
+
+Solution: Optimal, theoretically. DFS has a bit faster runtime, but who cares amirite boys.
+
+What to learn: Code in both DFS and BFS.
