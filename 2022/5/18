@@ -12,3 +12,11 @@ Initial thought: DFS might be easier. Did BFS instead.
 Solution: Optimal. There's BFS, and that's achieved by pushing into queue the path instead of just number very smort.
 
 What to learn: BFS tech.
+
+--------------------------
+Find Bottom Left Tree Value (Medium) https://leetcode.com/problems/find-bottom-left-tree-value/
+Initial thought: BFS should be easier for this one.
+
+Solution: Optimal, in theory. We can do level order traversal by just taking everything out all at once instead of pushing in nulls, which is new shit I learnt.
+
+What to learn: BFS tech.
