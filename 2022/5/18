@@ -4,3 +4,11 @@ Initial thought: Since I'm practicing BFS, I chose to do this instead. Just have
 Solution: Optimal, theoretically. DFS has a bit faster runtime, but who cares amirite boys.
 
 What to learn: Code in both DFS and BFS.
+
+--------------------------
+All Paths From Source to Target (Medium) https://leetcode.com/problems/all-paths-from-source-to-target/
+Initial thought: DFS might be easier. Did BFS instead.
+
+Solution: Optimal. There's BFS, and that's achieved by pushing into queue the path instead of just number very smort.
+
+What to learn: BFS tech.
