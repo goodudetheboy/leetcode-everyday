@@ -1,0 +1,14 @@
+Surrounded Regions (Medium) https://leetcode.com/problems/surrounded-regions/
+Initial thought: I carved up a good algo, but it didnt' run in some edge cases lmao. Put this in TODO.
+
+Solution: Used Solution.
+
+What to learn: DFS tech.
+
+--------------------------
+Battleships in a Board (Medium) https://leetcode.com/problems/battleships-in-a-board/
+Initial thought: Simple DFS/BFS problem. But the follow-up is quite interesting. One-pass, no mod, and O(1) space. Very interesting.
+
+Solution: Optimal, technically. Then there's the follow-up.
+
+What to learn: There might be other problems that DFS/BFS is too overkill. Keep an eye out for those.
