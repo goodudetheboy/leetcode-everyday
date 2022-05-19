@@ -20,3 +20,11 @@ Initial thought: I first try the level order traversal approach (BFS), but it ru
 Solution: Optimal.
 
 What to learn: Know when BFS/DFS is better.
+
+--------------------------
+Max Area of Island (Medium) https://leetcode.com/problems/max-area-of-island/
+Initial thought: Easy DFS problem.
+
+Solution: Optimal.
+
+What to learn: Remember the template of DFS.
