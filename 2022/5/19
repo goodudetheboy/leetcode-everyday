@@ -12,3 +12,11 @@ Initial thought: Simple DFS/BFS problem. But the follow-up is quite interesting.
 Solution: Optimal, technically. Then there's the follow-up.
 
 What to learn: There might be other problems that DFS/BFS is too overkill. Keep an eye out for those.
+
+--------------------------
+Find Largest Value in Each Tree Row (Medium) https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+Initial thought: I first try the level order traversal approach (BFS), but it runs a tad too slow for my comfort, so I switched to DFS, and voila, it works pretty well.
+
+Solution: Optimal.
+
+What to learn: Know when BFS/DFS is better.
