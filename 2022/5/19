@@ -28,3 +28,11 @@ Initial thought: Easy DFS problem.
 Solution: Optimal.
 
 What to learn: Remember the template of DFS.
+
+--------------------------
+Most Frequent Subtree Sum (Medium) https://leetcode.com/problems/most-frequent-subtree-sum/
+Initial thought: Damn anything with frequency is gonna get yucky. And it is. Didn't find any better Solutions in Discussions tho. Simple DFS traversal.
+
+Solution: Optimal.
+
+What to learn: Frequency stuff might be a bit more troubling later.
