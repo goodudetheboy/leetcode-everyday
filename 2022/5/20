@@ -3,5 +3,12 @@ Binary Tree Right Side View (Medium) https://leetcode.com/problems/binary-tree-r
 Validate Binary Search Tree (Medium) https://leetcode.com/problems/validate-binary-search-tree/
 --------------------------
 Flatten Binary Tree to Linked List (Medium) https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
-
+--------------------------
 Minimum Depth of Binary Tree (Easy) https://leetcode.com/problems/minimum-depth-of-binary-tree/
+--------------------------
+Populating Next Right Pointers in Each Node (Medium) https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+Initial thought: This is the perfect candidate for BFS. But wait. This is a perfect binary tree. I had a feeling BFS is overkill here, and as I thought, it is. Even though BFS is O(n) time, it's O(n) space, so that's yucky. Resorted to using Discussion...
+
+Solution: Very smart approach. Since you already have the cur.next, you can just switch branch, and anything in between two BST is taken care of. Fucking hell that's smart lads.
+
+What to learn: Again, DFS and BFS tech. This is some rabbit hole I'm going into.
