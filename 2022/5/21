@@ -1,0 +1,13 @@
+Symmetric Tree (Easy) https://leetcode.com/problems/symmetric-tree/
+--------------------------
+Balanced Binary Tree (Easy) https://leetcode.com/problems/balanced-binary-tree/
+--------------------------
+Populating Next Right Pointers in Each Node II (Medium) https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+Initial thought: Clearly the previous code won't work on this followup, but the BFS O(n) still works. I elect to choose that and put this in the TODO backlog.
+
+Solution: Didn't see, wanna redo.
+
+What to learn: Nothing yet.
+
+--------------------------
+
