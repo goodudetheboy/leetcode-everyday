@@ -1,9 +1,17 @@
 Binary Tree Postorder Traversal (Easy) https://leetcode.com/problems/binary-tree-postorder-traversal/
---------------------------
 
+--------------------------
 Course Schedule (Medium) https://leetcode.com/problems/course-schedule/
 Initial thought: I struggled with thinking this a bit. But then it hits me: I just need to do some cycle detection easy. Onward to Wikipedia to get the pseudocode!
 
-Solution: Optimal
+Solution: Optimal.
 
 What to learn: Cycle detection. Very interesting techs in there.
+
+--------------------------
+Course Schedule II (Medium) https://leetcode.com/problems/course-schedule-ii/
+Initial thought: It's just an easy follow-up from previous one. Easy.
+
+Solution: Optimal.
+
+What to learn: Nothing.
