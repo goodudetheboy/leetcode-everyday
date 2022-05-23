@@ -15,3 +15,11 @@ Initial thought: This is a bit of a mess for sure. I was writing up shitton LOC,
 Solution: Optimal, I think. Lmao.
 
 What to learn: MORE DFS.
+
+--------------------------
+Island Perimeter (Easy) https://leetcode.com/problems/island-perimeter/
+Initial thought: I just blindly do DFS lmao. Apparently you can do one pass by just checking for land on the way and checking sideways. Much, much faster that way. Sad.
+
+Solution: Described above.
+
+What to learn: Take account into special circumstances before jumping straight to default solving techniques.
