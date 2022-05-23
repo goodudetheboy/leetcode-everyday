@@ -1,0 +1,6 @@
+Lowest Common Ancestor of a Binary Search Tree (Medium) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+Initial thought: Search by interval. Since this is a bin search tree, we just search by big and small number of provided nodes.
+
+Solution: Optimal, though the runtime is very variable.
+
+What to learn: LCA stuff, I guess.
