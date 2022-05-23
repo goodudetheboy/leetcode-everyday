@@ -23,3 +23,6 @@ Initial thought: I just blindly do DFS lmao. Apparently you can do one pass by j
 Solution: Described above.
 
 What to learn: Take account into special circumstances before jumping straight to default solving techniques.
+
+--------------------------
+Sum of Left Leaves (Easy) https://leetcode.com/problems/sum-of-left-leaves/
