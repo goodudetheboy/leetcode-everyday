@@ -4,3 +4,14 @@ Initial thought: Search by interval. Since this is a bin search tree, we just se
 Solution: Optimal, though the runtime is very variable.
 
 What to learn: LCA stuff, I guess.
+
+--------------------------
+Binary Tree Paths (Easy) https://leetcode.com/problems/binary-tree-paths/
+
+--------------------------
+Lowest Common Ancestor of a Binary Tree (Medium) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+Initial thought: This is a bit of a mess for sure. I was writing up shitton LOC, but then I remember optimal solution won't be that trashy, so I just started over. Then I just split into two cases, if we have already found one, then we just need to find the next one, then call it the LCA, if not then keep searching for the first one. The actual implementation is trash, but the idea is optimal, I think. My time is similar to in Discussion.
+
+Solution: Optimal, I think. Lmao.
+
+What to learn: MORE DFS.
