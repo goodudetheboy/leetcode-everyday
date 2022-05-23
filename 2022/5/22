@@ -16,9 +16,18 @@ Solution: Optimal.
 
 What to learn: Nothing.
 
+--------------------------
 Design Add and Search Words Data Structure (Medium) https://leetcode.com/problems/design-add-and-search-words-data-structure/
 Initial thought: Easy data structure baby. Just build a graph. That's all lmao. Then DFS your way to find the word.
 
 Solution: Optimal. Apparently this is a trie (k-ary tree). I didn't even know about this lmao.
 
 What to learn: Trie.
+
+--------------------------
+Count Complete Tree Nodes (Medium) https://leetcode.com/problems/count-complete-tree-nodes/
+Initial thought: I'm in a bit of a rush now, so I just fucking dfs the bitch out of this. I think I have something, but I'm just lazy lmao. Put this in TODO.
+
+Solution: Semi-optimal for sure, since this is a complete binary tree.
+
+What to learn: later.
