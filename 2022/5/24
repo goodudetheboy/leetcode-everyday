@@ -19,3 +19,11 @@ Initial thought: I figured it would be the same as Word Ladder I, but there is a
 Solution: Semi-optimal. Standard BFS exercise. There is a way, way better solution in the discussion that uses bi-directional BFS, so I will do this again later.
 
 What to learn: BFS shit. 
+
+--------------------------
+Serialize and Deserialize Binary Tree (Hard) https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+Initial thought: Yeah fuck this DS design. I wrote a shitton of code, but then it couldn't run, so I looked at Discussion, and they were doing it in 4 lines, in total. FUCK
+
+Solution: Just simple DFS nesting.
+
+What to learn: Fuck I'm so shit and these DS design thing.

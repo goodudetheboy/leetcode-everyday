@@ -21,7 +21,7 @@ LC profile: https://leetcode.com/goodudetheboy/
 - Medium 200Q
 
 ### Total Hard questions:
-- Hard 10Q
+- ~~Hard 10Q~~ - 2022/05/24
 - Hard 20Q
 - Hard 30Q
 - Hard 50Q
