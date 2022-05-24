@@ -1,0 +1,21 @@
+Binary Tree Zigzag Level Order Traversal (Medium) https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+--------------------------
+
+Binary Tree Level Order Traversal II (Medium) https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+--------------------------
+
+Word Ladder (Hard) https://leetcode.com/problems/word-ladder/
+Initial thought: Did this. Easy BFS baby.
+--------------------------
+
+Solution: Optimal, I think. There is a solution that uses HashSet then changes each char within the word with A-Z and check for it inside rather than checking individually like what I did. Though the runtime is similar.
+
+What to learn: BFS tech.
+
+--------------------------
+Word Ladder II (Hard) https://leetcode.com/problems/word-ladder-ii/
+Initial thought: I figured it would be the same as Word Ladder I, but there is a bit more to it. The queue needs to adapt to the list of trace. Then it's smooth sailing. But the runtime is pretty trash tho.
+
+Solution: Semi-optimal. Standard BFS exercise. There is a way, way better solution in the discussion that uses bi-directional BFS, so I will do this again later.
+
+What to learn: BFS shit. 
