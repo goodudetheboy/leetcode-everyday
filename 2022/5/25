@@ -4,3 +4,11 @@ Initial thought: This takes me more than it should. I actually thought of a good
 Solution: Didn't look, will do again later.
 
 What to learn: Nothing as of yet.
+
+--------------------------
+Minimum Genetic Mutation (Medium) https://leetcode.com/problems/minimum-genetic-mutation/
+Initial thought: This is similar to Word Ladder, but a bit more constrained. Well, who gives a shit. I actually tried using the swapping char technique from those in the discussion, and it worked out pretty well. I went into a Discussion to paste in the code that uses checking individual strings instead of swapping char, and the runtime is pretty much similar.
+
+Solution: Optimal. Also 100th medium!
+
+What to learn: You can try using different techniques on the same problems and see how the runtime fares.
