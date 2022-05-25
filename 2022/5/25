@@ -12,3 +12,12 @@ Initial thought: This is similar to Word Ladder, but a bit more constrained. Wel
 Solution: Optimal. Also 100th medium!
 
 What to learn: You can try using different techniques on the same problems and see how the runtime fares.
+
+--------------------------
+Serialize and Deserialize BST (Medium) https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+--------------------------
+Minimum Absolute Difference in BST (Easy) https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+
+--------------------------
+Minimum Distance Between BST Nodes (Easy) https://leetcode.com/problems/minimum-distance-between-bst-nodes/
