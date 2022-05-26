@@ -1,0 +1,9 @@
+Delete Node in a Linked List (Easy) https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+--------------------------
+Reverse Nodes in k-Group (Hard) https://leetcode.com/problems/reverse-nodes-in-k-group/
+Initial thought: I used a stack to keep track of the sequencfe of nodes, not knowing that you can do that O(1)-ly. FUCK.
+
+Solution: Optimal time, I think. Just a bit iffy in the reverse part, but overall LL ez.
+
+What to learn: Linked List stuff. CodePath is starting and the first thing they're teaching me is LL.
