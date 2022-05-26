@@ -16,9 +16,13 @@ Solution: LinkedList is just another form of Array. instead of having an arrayli
 
 What to learn: If you're doing LL problem, think in terms of LL problem. Use LL as an Array alternative.
 
+--------------------------
 Reverse Linked List II (Medium) https://leetcode.com/problems/reverse-linked-list-ii/
 Initial thought: Just a bit more advanced version of reverse LL. Here I used the dummy head technique, then just move the pointer up just like normal.
 
 Solution: Optimal. Solution seems a bit more complicated, but I think I have the Optimal solution.
 
 What to learn: Dummy head is damn cool.
+
+--------------------------
+Remove Linked List Elements (Easy) https://leetcode.com/problems/remove-linked-list-elements/
