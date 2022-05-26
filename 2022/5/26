@@ -7,3 +7,11 @@ Initial thought: I used a stack to keep track of the sequencfe of nodes, not kno
 Solution: Optimal time, I think. Just a bit iffy in the reverse part, but overall LL ez.
 
 What to learn: Linked List stuff. CodePath is starting and the first thing they're teaching me is LL.
+
+--------------------------
+Partition List (Medium) https://leetcode.com/problems/partition-list/
+Initial thought: I solved this using Array. But then I looked at Solution, and oh boy, am I dumb.
+
+Solution: LinkedList is just another form of Array. instead of having an arraylist, you can keep track of before and after using two LL. DUMB ASS BITCH.
+
+What to learn: If you're doing LL problem, think in terms of LL problem. Use LL as an Array alternative.
