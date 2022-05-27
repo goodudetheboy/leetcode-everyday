@@ -1,0 +1,6 @@
+Intersection of Two Linked Lists (Easy) https://leetcode.com/problems/intersection-of-two-linked-lists/
+Initial thought: I thought I was smart when I use cycle finding in this, but boy am I dumb as shit. This is an inherent math problem, and I fail it big time.
+
+Solution: Just have two heads running from headA and headB, then when at end just switch head. Mathematically this will get you to the necessary loop.
+
+What to learn: I really need to get into math shit.
