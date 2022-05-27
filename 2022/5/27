@@ -23,3 +23,6 @@ Initial thought: Oh a random-based problem. This is definitely not going to go w
 Solution: Reservoir sampling. Or something about filling up a reservoir for randoms sampling. Beyond my scope for sure, but I'll keep this in TOLEARN.
 
 What to learn: Reservoir sampling, and probabilistic shit, since this is used a lot in CP.
+
+--------------------------
+Add Two Numbers II (Medium) https://leetcode.com/problems/add-two-numbers-ii/
