@@ -7,3 +7,11 @@ What to learn: I really need to get into math shit.
 
 --------------------------
 Odd Even Linked List (Medium) https://leetcode.com/problems/odd-even-linked-list/
+
+--------------------------
+Palindrome Linked List (Easy) https://leetcode.com/problems/palindrome-linked-list/
+Initial thought: I just thought of doing the recursive solution. But fuck there is this reverse technique that I don't know of. Fuck
+
+Solution: Fast and slow, and reverse the fast pointer. Don't know what that means, will do this again later.
+
+What to learn: LL sure has a different range of thoughts.
