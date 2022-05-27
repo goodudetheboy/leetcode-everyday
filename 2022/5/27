@@ -15,3 +15,11 @@ Initial thought: I just thought of doing the recursive solution. But fuck there 
 Solution: Fast and slow, and reverse the fast pointer. Don't know what that means, will do this again later.
 
 What to learn: LL sure has a different range of thoughts.
+
+--------------------------
+Linked List Random Node (Medium) https://leetcode.com/problems/linked-list-random-node/
+Initial thought: Oh a random-based problem. This is definitely not going to go wrong at all, amirite boys? Really, for a random, it's just simple as randomly choosing some shit out of it. But the Solution has something pretty cool.
+
+Solution: Reservoir sampling. Or something about filling up a reservoir for randoms sampling. Beyond my scope for sure, but I'll keep this in TOLEARN.
+
+What to learn: Reservoir sampling, and probabilistic shit, since this is used a lot in CP.
