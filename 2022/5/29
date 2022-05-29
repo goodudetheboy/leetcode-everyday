@@ -28,3 +28,11 @@ Initial thought: This is a simple Set problem. Upon reading the prompt carefully
 Solution: Optimal.
 
 What to learn: Nothing.
+
+--------------------------
+Next Greater Node In Linked List (Medium) https://leetcode.com/problems/next-greater-node-in-linked-list/
+Initial thought: I know I have to use mono stack here, but I can't fucking remember how to use it. Well, fuck this I guess. Going bruteforce baby. Will redo this later.
+
+Solution: Mono stack, TODO again.
+
+What to learn: Mono stack revision.
