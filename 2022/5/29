@@ -1,0 +1,6 @@
+Maximum Product of Word Lengths (Medium) https://leetcode.com/problems/maximum-product-of-word-lengths/
+Initial thought: I have to be honest man, bit manipulation LC is weird. I just can't wrap my head around binary shit, yet. So for this one I thought of creating a 26 bit rep of the alphabets of individual words, and just O(n^2) loop through the list. That's all.
+
+Solution: Semi-optimal. I was going somewhere with my bit manipulation tech. They use bitmask to shift accordingly and OR the original one instead, while I use a boolean array then convert to that. FUCK I was dumb.
+
+What to learn: Bit manipulation. I feel like this might be one of the questions on some obscure ass tech company in Ohio.
