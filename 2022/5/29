@@ -12,3 +12,10 @@ Initial thought: I think something went wrong with my DFS intuition. Shit just p
 Solution: You can find the mid by slow-fast pointer. Damn I HAVE TO keep this tech in mind.
 
 What to learn: Keep in mind the slow-fast pointer in case you want to move around in a LL.
+
+Design Linked List (Medium) https://leetcode.com/problems/design-linked-list/
+Initial thought: I don't think linked list will be given as an interview question, so to hell with this, I'm opting for Discussion. I actually have a partially working solution. But who gives a shit lmao.
+
+Solution: It's LL. Nothing is simpler than this.
+
+What to learn: Nothing.
