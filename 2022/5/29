@@ -4,3 +4,11 @@ Initial thought: I have to be honest man, bit manipulation LC is weird. I just c
 Solution: Semi-optimal. I was going somewhere with my bit manipulation tech. They use bitmask to shift accordingly and OR the original one instead, while I use a boolean array then convert to that. FUCK I was dumb.
 
 What to learn: Bit manipulation. I feel like this might be one of the questions on some obscure ass tech company in Ohio.
+
+--------------------------
+Convert Sorted List to Binary Search Tree (Medium) https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+Initial thought: I think something went wrong with my DFS intuition. Shit just poof with LL problem. I solved this with putting number into array, which is time optimal, but not space.
+
+Solution: You can find the mid by slow-fast pointer. Damn I HAVE TO keep this tech in mind.
+
+What to learn: Keep in mind the slow-fast pointer in case you want to move around in a LL.
