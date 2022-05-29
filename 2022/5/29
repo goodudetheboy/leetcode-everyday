@@ -13,9 +13,18 @@ Solution: You can find the mid by slow-fast pointer. Damn I HAVE TO keep this te
 
 What to learn: Keep in mind the slow-fast pointer in case you want to move around in a LL.
 
+--------------------------
 Design Linked List (Medium) https://leetcode.com/problems/design-linked-list/
 Initial thought: I don't think linked list will be given as an interview question, so to hell with this, I'm opting for Discussion. I actually have a partially working solution. But who gives a shit lmao.
 
 Solution: It's LL. Nothing is simpler than this.
+
+What to learn: Nothing.
+
+--------------------------
+Linked List Components (Medium) https://leetcode.com/problems/linked-list-components/
+Initial thought: This is a simple Set problem. Upon reading the prompt carefully, I noticed that the value is restricted in 0 and n, and unique, so I use array to bookkeep position of nums. Easy time improvement.
+
+Solution: Optimal.
 
 What to learn: Nothing.
