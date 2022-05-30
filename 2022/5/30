@@ -21,3 +21,11 @@ What to learn: LinkedHashMap and LRU cache design. REMEMBER THIS!
 
 --------------------------
 Merge In Between Linked Lists (Medium) https://leetcode.com/problems/merge-in-between-linked-lists/
+
+--------------------------
+String to Integer (atoi) (Medium) https://leetcode.com/problems/string-to-integer-atoi/
+Initial thought: The only problem here is the integer overflow problem. But idk how to do that. So I looked up on online and one good way to do that is using long instead. But that's a stop gap anyway lmao.
+
+Solution: Can check overflow by checking the current value against max value/10 and min value/10. Damn.
+
+What to learn: This is pretty BS problem anyway lmao. Who reinvents the wheel anyway, amirite?
