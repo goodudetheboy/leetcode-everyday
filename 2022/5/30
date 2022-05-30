@@ -1,0 +1,9 @@
+Divide Two Integers (Medium) https://leetcode.com/problems/divide-two-integers/
+
+--------------------------
+Linked List in Binary Tree (Medium) https://leetcode.com/problems/linked-list-in-binary-tree/
+Initial thought: I thought there is some fucking smart ass approach to this, but reading the hints and the Discussion it seems like it just brute forcing. And I did it.
+
+Solution: Optimal. Apparently no better way than brute force.
+
+What to learn: Try to do the brute force approach, then build up from there. It's the better progression than just thinking optimally right away.
