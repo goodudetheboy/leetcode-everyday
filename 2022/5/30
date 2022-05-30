@@ -7,3 +7,14 @@ Initial thought: I thought there is some fucking smart ass approach to this, but
 Solution: Optimal. Apparently no better way than brute force.
 
 What to learn: Try to do the brute force approach, then build up from there. It's the better progression than just thinking optimally right away.
+
+--------------------------
+Design Browser History (Medium) https://leetcode.com/problems/design-browser-history/
+
+--------------------------
+LRU Cache (Medium) https://leetcode.com/problems/lru-cache/
+Initial thought: Originally idk how to do this, so I looked this up on Google to get an idea. Then BAM. LinkedHashMap. Some shit idk even exists. Then the logic just clicks.
+
+Solution: Optimal. I should really remember this, since this might come up a lot in MANGA interviews, maybe a lot.
+
+What to learn: LinkedHashMap and LRU cache design. REMEMBER THIS!
