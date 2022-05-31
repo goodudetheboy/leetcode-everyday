@@ -1,0 +1,6 @@
+Check If a String Contains All Binary Codes of Size K (Medium) https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+Initial thought: I did get stuck for a bit. Then I remember that I have to look at the problem the other way too. And I did. Easy enough, it just needs a HashSet for this purpose. Ba da bing ba da bum.
+
+Solution: My approach was optimal, except the HashSet part. Since we know the limit is within a range (that is, 0 -> 2^k-1), we can hash the string value itself. And it's even better since this is a sliding windows problem, so we can do what's called a rolling hash technique, where hash can be calculated by O(1) time by just moving the window along. Fuck this is god damn smort.
+
+What to learn: Remember to hash using array when the range is known. Also rolling hash.
