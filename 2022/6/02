@@ -1,0 +1,16 @@
+Group Anagrams (Medium) https://leetcode.com/problems/group-anagrams/
+Initial thought: My first solution is to find the char count of each value, then compare it together. But then the runtime is fucked. So I went back to the drawing board and thought of sorting and hash table. Much, much better improvements.
+
+Solution: The solution in the Discussion is a bit more optimized. Instead of sorting the character, you can create a hash out of the strings ignoring the word order. So the run time is just O(mn), as claimed by the Discussion post. A very interesting hash function. 
+
+```
+    long hash(String word) {
+        long h = 0;
+        for (char c : word.toCharArray()) h += c * c * c * c;
+        return h;
+    }
+```
+
+    I will definitely keep this in mind.
+
+What to learn: Easy string to hash function.
