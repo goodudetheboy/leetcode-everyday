@@ -35,3 +35,8 @@ Combination Sum III (Medium) https://leetcode.com/problems/combination-sum-iii/
 
 --------------------------
 Roman to Integer (Easy) https://leetcode.com/problems/roman-to-integer/
+Initial thought: I thought this was easy, and just need a bunch of nested loop. But boy was I wrong.
+
+Solution: When dealing with a lot of mappings like this, you need something very specific. Yes, a Map. Much cleaner code.
+
+What to learn: Mapping using map if you see a lot of for loop or switch.
