@@ -13,3 +13,11 @@ Plus One (Easy) https://leetcode.com/problems/plus-one/
 
 --------------------------
 Remove Duplicates from Sorted Array II (Medium) https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
+--------------------------
+Combination Sum (Medium) https://leetcode.com/problems/combination-sum/
+Initial thought: Fuck I thought this was a simple DFS, but then the unique parts hit. And I just stucks there. God bless. I then resort to my Google-fu for help. And I actually learnt something quite nice.
+
+Solution: It's just dfs as normal, but to avoid the duplicates part, we just need to incrementally restrict the candidates. We first move deeper with the same index, but then we will move next with index+1, effectively restricting the pool, preventing duplicates. Damn that is smart. I learnt something new!
+
+What to learn: Backtracking and duplicates avoiding techniques.
