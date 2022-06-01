@@ -21,3 +21,10 @@ Initial thought: Fuck I thought this was a simple DFS, but then the unique parts
 Solution: It's just dfs as normal, but to avoid the duplicates part, we just need to incrementally restrict the candidates. We first move deeper with the same index, but then we will move next with index+1, effectively restricting the pool, preventing duplicates. Damn that is smart. I learnt something new!
 
 What to learn: Backtracking and duplicates avoiding techniques.
+
+Combination Sum II (Medium) https://leetcode.com/problems/combination-sum-ii/
+Initial thought: It's a follow-up of previous. Simple sorting and duplicate avoiding will do.
+
+Solution: Optimal, but there is also this "early stopping" tech that really helps improve runtime. Learnt.
+
+What to learn: Early stoppping tech.
