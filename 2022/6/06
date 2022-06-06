@@ -4,3 +4,14 @@ Initial thought: This problem makes me so sad. I literally just finished Median 
 Solution: Middle pointer bookkeeping using two lists.
 
 What to learn: Above. Also remember to use the UMPIRE technique.
+
+--------------------------
+Isomorphic Strings (Easy) https://leetcode.com/problems/isomorphic-strings/
+
+--------------------------
+Find K Pairs with Smallest Sums (Medium) https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+Initial thought: I know that getting K smallest we need to build minHeap, but this shit gives TLE. I resort to using Solution.
+
+Solution: The optimal solution is O(nlogk). We first add k smallest into the heap by nums1[0] nums2[1], then we poll, add to result, then add the pair [i+1, j], i j from the poll, to the heap, then continue k times. I honestly would not think of this in an interview.
+
+What to learn: Optimized heap building.
