@@ -1,0 +1,6 @@
+Design Front Middle Back Queue (Medium) https://leetcode.com/problems/design-front-middle-back-queue/
+Initial thought: This problem makes me so sad. I literally just finished Median data stream, and I already forgor the tech. FUCK. I USED THE THREE POINTER BULLSHIT. TAKES WAY LONGER THAN NECESSARY!!!!
+
+Solution: Middle pointer bookkeeping using two lists.
+
+What to learn: Above. Also remember to use the UMPIRE technique.

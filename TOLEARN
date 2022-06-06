@@ -17,3 +17,4 @@ Duplicates avoiding in backtracking (https://leetcode.com/problems/combination-s
 Early stopping in backtracking (https://leetcode.com/problems/combination-sum-ii/)
 If there's mapping and switch, use Map (https://leetcode.com/problems/roman-to-integer/)
 Easy string to hash function (https://leetcode.com/problems/group-anagrams/)
+Middle pointer bookkeeping using two lists (https://leetcode.com/problems/design-front-middle-back-queue/)
