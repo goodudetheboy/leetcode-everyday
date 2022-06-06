@@ -19,3 +19,4 @@ If there's mapping and switch, use Map (https://leetcode.com/problems/roman-to-i
 Easy string to hash function (https://leetcode.com/problems/group-anagrams/)
 Middle pointer bookkeeping using two lists (https://leetcode.com/problems/design-front-middle-back-queue/)
 Optimized heap building (https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+QuickSelect (https://leetcode.com/problems/kth-largest-element-in-an-array/)

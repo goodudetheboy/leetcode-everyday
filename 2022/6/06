@@ -15,3 +15,14 @@ Initial thought: I know that getting K smallest we need to build minHeap, but th
 Solution: The optimal solution is O(nlogk). We first add k smallest into the heap by nums1[0] nums2[1], then we poll, add to result, then add the pair [i+1, j], i j from the poll, to the heap, then continue k times. I honestly would not think of this in an interview.
 
 What to learn: Optimized heap building.
+
+--------------------------
+Kth Largest Element in an Array (Medium) https://leetcode.com/problems/kth-largest-element-in-an-array/
+Initial thought: This one is... too simple? Just sort the array then get it. O(nlogn).
+
+Solution: Semi-optimal. A better way to do this is QuickSelect, which is QuickSort, but stops when the pivot is at kth. That is crazy.
+
+What to learn: QuickSelect
+
+--------------------------
+Relative Ranks (Easy) https://leetcode.com/problems/relative-ranks/
