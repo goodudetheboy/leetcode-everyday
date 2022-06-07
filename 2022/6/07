@@ -2,3 +2,16 @@ Day of the Week (Easy) https://leetcode.com/problems/day-of-the-week/
 
 --------------------------
 Kth Smallest Element in a Sorted Matrix (Medium) https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+Initial thought: I must say, Heaps problems are hard as fuck, but they are also interesting as fuck too. There are some real wacky tech I don't even know existed. For this one I just traverse through the matrix, add them in a PQ, remove when size > k, then just return poll. That's O(mnlogk), and that's yucky as fuck.
+
+Solution: I can optimize this by just looping k times. First insert the start of all rows, then loop k times removing the poll then adding the next smallest one. Then BAM you get the kth smallest after k times. Damn.
+
+What to learn: k-th smallest shit.
+
+--------------------------
+Sliding Window Median (Hard) https://leetcode.com/problems/sliding-window-median/
+Initial thought: I already know about the minHeap and maxHeap tech to keep track of median in streams, and boy did I use it well. I didn't very much remember the heap balancing tho, so I went back and take a look. And boy this is so satisfying to do.
+
+Solution: Semi-optimal. My removing out of the window takes O(n) for using contains, and that's bad. I need to check the elements <= max.peek() then remove from max or min accordingly, then rebalance heap, which takes only O(logn). Very illuminating.
+
+What to learn: Median heaps and heaps balancing.
