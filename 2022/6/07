@@ -15,3 +15,9 @@ Initial thought: I already know about the minHeap and maxHeap tech to keep track
 Solution: Semi-optimal. My removing out of the window takes O(n) for using contains, and that's bad. I need to check the elements <= max.peek() then remove from max or min accordingly, then rebalance heap, which takes only O(logn). Very illuminating.
 
 What to learn: Median heaps and heaps balancing.
+
+--------------------------
+Top K Frequent Words (Medium) https://leetcode.com/problems/top-k-frequent-words/
+
+--------------------------
+Reduce Array Size to The Half (Medium) https://leetcode.com/problems/reduce-array-size-to-the-half/
