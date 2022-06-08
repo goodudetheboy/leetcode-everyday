@@ -17,7 +17,7 @@ LC profile: https://leetcode.com/goodudetheboy/
 ### Total Medium questions:
 - ~~Medium 50Q~~ - 2022/04/06
 - ~~Medium 100Q~~ - 2022/05/25
-- **Medium 150Q**
+- ~~Medium 150Q~~ - 2022/06/08
 - Medium 200Q
 
 ### Total Hard questions:
