@@ -28,3 +28,6 @@ Initial thought: This is just simple array traversal and bookkeeping. BAM! Done.
 Solution: Semi-optimal. It's little bit better going backwards, then you don't have to traverse the entire array to get the total in the forward case.
 
 What to learn: Always look both ways in String problem!
+
+--------------------------
+Find and Replace Pattern (Medium) https://leetcode.com/problems/find-and-replace-pattern/
