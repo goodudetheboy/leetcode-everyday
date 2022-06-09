@@ -1,1 +1,12 @@
 Subsets (Medium) https://leetcode.com/problems/subsets/
+
+--------------------------
+Subsets II (Medium) https://leetcode.com/problems/subsets-ii/
+
+--------------------------
+Jump Game (Medium) https://leetcode.com/problems/jump-game/
+Initial thought: This is the problem where I think more complicated than necessary. We don't need to trace the steps, we just need to whether we can reach it. I essentially just bruteforce from the way back. And the result is, you guess it, TLE baby.
+
+Solution: Keep track of max reach, traverse the array, if current index is more than max, you know we can't reach the end. It's that simple. And I couldn't do it. wtf.
+
+What to learn: Keep thigs simple in your mind.
