@@ -14,4 +14,13 @@ What to learn: Keep thigs simple in your mind.
 --------------------------
 Jump Game II (Medium) https://leetcode.com/problems/jump-game-ii/
 
+--------------------------
 Jump Game III (Medium) https://leetcode.com/problems/jump-game-iii/
+
+--------------------------
+Jump Game IV (Hard) https://leetcode.com/problems/jump-game-iv/
+Initial thought: This is just simple bfs with visited bookkeeping and hashtable for similar values. Only problems are is that my original implementation is, even though it's "optimal" in theory, but still receives TLE. I went to Solution to check out some optimization.
+
+Solution: Turns out my approach is correct, but a problem is that once your check same indices of arr[i], you don't need to check it again if you encounter it later. So after you have checked it once, just clear the data, and you don't have to spend the extra time looking through it again.
+
+What to learn: This is some real wacky optimization. TODO for sure!
