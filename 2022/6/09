@@ -24,3 +24,6 @@ Initial thought: This is just simple bfs with visited bookkeeping and hashtable 
 Solution: Turns out my approach is correct, but a problem is that once your check same indices of arr[i], you don't need to check it again if you encounter it later. So after you have checked it once, just clear the data, and you don't have to spend the extra time looking through it again.
 
 What to learn: This is some real wacky optimization. TODO for sure!
+
+--------------------------
+Count Primes (Medium) https://leetcode.com/problems/count-primes/
