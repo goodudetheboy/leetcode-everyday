@@ -10,3 +10,6 @@ Initial thought: This is the problem where I think more complicated than necessa
 Solution: Keep track of max reach, traverse the array, if current index is more than max, you know we can't reach the end. It's that simple. And I couldn't do it. wtf.
 
 What to learn: Keep thigs simple in your mind.
+
+--------------------------
+Jump Game II (Medium) https://leetcode.com/problems/jump-game-ii/
