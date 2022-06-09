@@ -35,3 +35,6 @@ Initial thought: I implemented a BFS approach for this, but I get TLE. Don't kno
 Solution: Bellman Ford or whatever it's called. This is a deffo TOLEARN for sure.
 
 What to learn: Bellman Ford and Djikstra BFS.
+
+--------------------------
+Majority Element II (Medium) https://leetcode.com/problems/majority-element-ii/
