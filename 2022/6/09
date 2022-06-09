@@ -27,3 +27,11 @@ What to learn: This is some real wacky optimization. TODO for sure!
 
 --------------------------
 Count Primes (Medium) https://leetcode.com/problems/count-primes/
+
+--------------------------
+Cheapest Flights Within K Stops (Medium) https://leetcode.com/problems/cheapest-flights-within-k-stops/
+Initial thought: I implemented a BFS approach for this, but I get TLE. Don't know how else to do it lmao.
+
+Solution: Bellman Ford or whatever it's called. This is a deffo TOLEARN for sure.
+
+What to learn: Bellman Ford and Djikstra BFS.
