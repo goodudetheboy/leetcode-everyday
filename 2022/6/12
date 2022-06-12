@@ -24,3 +24,6 @@ Initial thought: I did a similar problem yesterday, but I didn't quite understan
 Solution: My solution is close, but I just need to do a bit count bookkeeping, since there can be nonnegative. Also prefix sum is very used in hash table I can see.
 
 What to learn: Prefix sum bookkeeping.
+
+--------------------------
+The Skyline Problem (Hard) https://leetcode.com/problems/the-skyline-problem/
