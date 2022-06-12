@@ -1,0 +1,9 @@
+Successful Pairs of Spells and Potions (Medium) https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+
+--------------------------
+Maximum Erasure Value (Medium) https://leetcode.com/problems/maximum-erasure-value/
+Initial thought: Classic two pointers+sliding windows problem. Maintain left pointer, find next duplicate, then just move the left pointer removing the dups and curSum. Simple O(n).
+
+Solution: Semi-otpimal. A tiny bit more optimization is maintaining a prefix sum from previous duplicates, then just deduct it, instead of having to move left pointer.
+
+What to learn: Wacky sliding windows tech
