@@ -1,1 +1,2 @@
 [Hash table] Mention that you can "make sure the hash table implementation is good to maximize its efficiency" for extra kudos
+As noted by one of the Solution, the problem "Rotate Image" can be asked a lot. The most elegant way, though a bit less efficient, is to transpose the matrix, then reflect it in the middle;
