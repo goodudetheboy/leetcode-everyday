@@ -16,3 +16,11 @@ Find All Numbers Disappeared in an Array (Easy) https://leetcode.com/problems/fi
 
 --------------------------
 Calculate Amount Paid in Taxes (Easy) https://leetcode.com/problems/calculate-amount-paid-in-taxes/
+
+--------------------------
+Subarray Sum Equals K (Medium) https://leetcode.com/problems/subarray-sum-equals-k/
+Initial thought: I did a similar problem yesterday, but I didn't quite understand how it works, so I just follow suit to what I remember. But I forgor that this array also have negative integer, so that's that. Looked at Discussion.
+
+Solution: My solution is close, but I just need to do a bit count bookkeeping, since there can be nonnegative. Also prefix sum is very used in hash table I can see.
+
+What to learn: Prefix sum bookkeeping.
