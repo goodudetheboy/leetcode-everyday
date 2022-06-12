@@ -7,3 +7,12 @@ Initial thought: Classic two pointers+sliding windows problem. Maintain left poi
 Solution: Semi-otpimal. A tiny bit more optimization is maintaining a prefix sum from previous duplicates, then just deduct it, instead of having to move left pointer.
 
 What to learn: Wacky sliding windows tech
+
+--------------------------
+Number of Boomerangs (Medium) https://leetcode.com/problems/number-of-boomerangs/
+
+--------------------------
+Find All Numbers Disappeared in an Array (Easy) https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+--------------------------
+Calculate Amount Paid in Taxes (Easy) https://leetcode.com/problems/calculate-amount-paid-in-taxes/
