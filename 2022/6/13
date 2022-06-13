@@ -1,0 +1,6 @@
+Contiguous Array (Medium) https://leetcode.com/problems/contiguous-array/
+Initial thought: I was headed in the right dir when using sum +1 +0. But it was getting a little yucky. So I hop into Solution and looks just a bit of hint. So it still counts.
+
+Solution: Optimal. You just need to keep sum +1 -1 for 1 0, then it's pretty much prefix sum bookkeeping like normal.
+
+What to learn: Special conditions allow special approaches.
