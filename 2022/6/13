@@ -4,3 +4,9 @@ Initial thought: I was headed in the right dir when using sum +1 +0. But it was 
 Solution: Optimal. You just need to keep sum +1 -1 for 1 0, then it's pretty much prefix sum bookkeeping like normal.
 
 What to learn: Special conditions allow special approaches.
+
+--------------------------
+Keyboard Row (Easy) https://leetcode.com/problems/keyboard-row/
+
+--------------------------
+Continuous Subarray Sum (Medium) https://leetcode.com/problems/continuous-subarray-sum/
