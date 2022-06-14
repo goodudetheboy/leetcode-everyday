@@ -16,3 +16,9 @@ Initial thought: I thought to use mono stack to traverse both ways, then find th
 Solution: Semi-optimal. Another O(n) time but O(n) space one is just to find the violating index by keeping track of min and max so far, two pass, one from the start for max, and one from the end for min. FUCKING SHIT.
 
 What to learn: Monotiniciy stack shit is a real fucking hassle. And also remember to look both ways when doing this kind of problem, like what happens with String.
+
+--------------------------
+Minimum Add to Make Parentheses Valid (Medium) https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+--------------------------
+Generate Parentheses (Medium) https://leetcode.com/problems/generate-parentheses/
