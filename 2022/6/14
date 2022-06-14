@@ -8,3 +8,11 @@ Exclusive Time of Functions (Medium) https://leetcode.com/problems/exclusive-tim
 
 --------------------------
 Largest Rectangle in Histogram (Hard) https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+--------------------------
+Shortest Unsorted Continuous Subarray (Medium) https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+Initial thought: I thought to use mono stack to traverse both ways, then find the first violating index. Then boom easy.
+
+Solution: Semi-optimal. Another O(n) time but O(n) space one is just to find the violating index by keeping track of min and max so far, two pass, one from the start for max, and one from the end for min. FUCKING SHIT.
+
+What to learn: Monotiniciy stack shit is a real fucking hassle. And also remember to look both ways when doing this kind of problem, like what happens with String.
