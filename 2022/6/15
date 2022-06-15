@@ -1,1 +1,9 @@
 Basic Calculator (Hard) https://leetcode.com/problems/basic-calculator/
+
+--------------------------
+Insert Delete GetRandom O(1) (Medium) https://leetcode.com/problems/insert-delete-getrandom-o1/
+Initial thought: I just thought of some crazy ass approach like linkedhashmap and all that bonkers bullshit. Nothing pans out, so I just solve it suboptimally with a map and a list.
+
+Solution: Turns out I was close. When removing from the list, just take the final value in the list and put it in the remove index. Boom. O(1).
+
+What to learn: Think simple.
