@@ -7,3 +7,6 @@ Initial thought: I just thought of some crazy ass approach like linkedhashmap an
 Solution: Turns out I was close. When removing from the list, just take the final value in the list and put it in the remove index. Boom. O(1).
 
 What to learn: Think simple.
+
+--------------------------
+Insert Delete GetRandom O(1) - Duplicates allowed (Hard) https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
