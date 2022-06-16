@@ -21,3 +21,8 @@ Car Pooling (Medium) https://leetcode.com/problems/car-pooling/
 
 --------------------------
 IPO (Hard) https://leetcode.com/problems/ipo/
+Initial thought: So what we need now is a greedy way of doing project. We need the project with the maximum profit and capital less than our current capital. I thought of doing a TreeMap, but it didn't pan out, so I just resort to using Disc anyway.
+
+Solution: There are tons of approach to this problem. The one I like most is using min capital heap and a max profit heap. Add to the max profit heap until the min capital is out, then just take the poll. Done. Nice and elegant. But the runtime is fucking horrendous. There is another approach, where if all capital is under the given capital, then we just need to k-item heap it, if not, then just brute force through it. Like, what the fuck?
+
+What to learn: Some real wacky tech like this.
