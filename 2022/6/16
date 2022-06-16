@@ -7,3 +7,11 @@ What to learn: Iterative approach to these kinds of problem using stack.
 
 --------------------------
 Distant Barcodes (Medium) https://leetcode.com/problems/distant-barcodes/
+
+--------------------------
+Reorganize String (Medium) https://leetcode.com/problems/reorganize-string/
+Initial thought: This problem is quite interesting. I solved this initially using PQ, just like the last one, but there is a neat little trick to change the O(nlogn) to O(n).
+
+Solution: Instead of caring about the most common letters all throughout creating the string, we care only the first common. If that common is more than (s.length+1)/2, then it's impossible, otherwise just alternately put common, then just traverse through the alphabet to put the remaining. O(n). Damn.
+
+What to learn: This neat little trick of not needing PQ.
