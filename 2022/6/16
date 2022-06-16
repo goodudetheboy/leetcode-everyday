@@ -1,0 +1,6 @@
+Decode String (Medium) https://leetcode.com/problems/decode-string/
+Initial thought: I attempted this while on a trip with my mom, but wasn't able to solve it since I was doing it on my phone lmao. Then when I come back with a fresh mind I solved it right away. Easy.
+
+Solution: Optimal. Though it seems in the Discussion that's wiser to do it with stack. Will TODO.
+
+What to learn: Iterative approach to these kinds of problem using stack.
