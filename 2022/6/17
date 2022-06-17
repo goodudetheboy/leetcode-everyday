@@ -14,3 +14,11 @@ Subarray Sums Divisible by K (Medium) https://leetcode.com/problems/subarray-sum
 
 --------------------------
 Combinations (Medium) https://leetcode.com/problems/combinations/
+
+--------------------------
+Unique Binary Search Trees (Medium) https://leetcode.com/problems/unique-binary-search-trees/
+Initial thought: MY FIRST EVER SOLVED DYNAMIC PROGRAMMING PROBLEM. TAKE THIS YOU FUCKING DP PIECE OF SHIT.
+
+Solution: Top-down memoization. Damn.
+
+What to learn: I have to start getting DP into my brain. Quickly.
