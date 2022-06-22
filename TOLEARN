@@ -25,4 +25,4 @@ MinHeap MaxHeap balancing (https://leetcode.com/problems/find-median-from-data-s
 Look both ways in String problem! (https://leetcode.com/problems/shifting-letters/)
 Bellman Ford and Djikstra (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 Prefix sum bookkeeping (https://leetcode.com/problems/subarray-sum-equals-k/)
-Djkstra = BFS + PQ (https://leetcode.com/problems/swim-in-rising-water/)
+Dijkstra = BFS + PQ (https://leetcode.com/problems/swim-in-rising-water/)
