@@ -9,6 +9,7 @@ Complete Binary Tree Inserter (Medium) https://leetcode.com/problems/complete-bi
 --------------------------
 Sliding Puzzle (Hard) https://leetcode.com/problems/sliding-puzzle/
 
+--------------------------
 Swim in Rising Water (Hard) https://leetcode.com/problems/swim-in-rising-water/
 Initial thought: Another typical shortest path problem. Just a queue and BFS would work, but it doesn't work that quite well.
 
