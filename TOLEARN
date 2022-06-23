@@ -26,3 +26,4 @@ Look both ways in String problem! (https://leetcode.com/problems/shifting-letter
 Bellman Ford and Djikstra (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 Prefix sum bookkeeping (https://leetcode.com/problems/subarray-sum-equals-k/)
 Dijkstra = BFS + PQ (https://leetcode.com/problems/swim-in-rising-water/)
+Union find (https://leetcode.com/problems/redundant-connection/)
