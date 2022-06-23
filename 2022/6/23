@@ -18,3 +18,6 @@ Initial thought: At first glance, I thought this was gonna be a simple BFS probl
 Solution: Turns out Union finding is much deeper than I thought. First, the optimal solution does not require creating a graph with edges, only need to traverse through the given edges array and work with that. Damn simple.
 
 What to learn: Union find. I think there's more than what meets the eyes here.
+
+--------------------------
+All Nodes Distance K in Binary Tree (Medium) https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/

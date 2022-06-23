@@ -47,3 +47,4 @@ Water and Jug Problem (Medium) https://github.dev/goodudetheboy/leetcode-everyda
 Swim in Rising Water (Hard) https://leetcode.com/problems/swim-in-rising-water/
 Course Schedule III (Hard) https://leetcode.com/problems/course-schedule-iii/
 Redundant Connection (Medium) https://leetcode.com/problems/redundant-connection/ (Use union find technique)
+All Nodes Distance K in Binary Tree (Medium) https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ (Don't use BFS)
