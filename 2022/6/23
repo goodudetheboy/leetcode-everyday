@@ -4,3 +4,6 @@ Initial thought: I thought of using a PQ to approach this problem, and well, I w
 Solution: Instead of pre-sorting by the some criteria, just sort it by start time, and during traversal, add whatever you occur, and if the time is more, then just remove the poll and add the new one if it appears to be better. Heck.
 
 What to learn: Pre-sorting was correct, but I need to be a bit more smart in the post-processing of post-sort.
+
+--------------------------
+Longest Increasing Path in a Matrix (Hard) https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
