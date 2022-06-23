@@ -10,3 +10,11 @@ Longest Increasing Path in a Matrix (Hard) https://leetcode.com/problems/longest
 
 --------------------------
 Print Binary Tree (Medium) https://leetcode.com/problems/print-binary-tree/
+
+--------------------------
+Redundant Connection (Medium) https://leetcode.com/problems/redundant-connection/
+Initial thought: At first glance, I thought this was gonna be a simple BFS problem. Union find or whatnot, it's just finding cycles. Then I set out to do so.
+
+Solution: Turns out Union finding is much deeper than I thought. First, the optimal solution does not require creating a graph with edges, only need to traverse through the given edges array and work with that. Damn simple.
+
+What to learn: Union find. I think there's more than what meets the eyes here.
