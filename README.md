@@ -11,8 +11,8 @@ LC profile: https://leetcode.com/goodudetheboy/
 - ~~LeetCode 200Q~~ - 2022/05/26
 - ~~LeetCode 250Q~~ - 2022/06/04
 - ~~LeetCode 300Q~~ - 2022/06/10
-- **LeetCode 400Q**
-- LeetCode 500Q
+- ~~LeetCode 400Q~~ - 2022/06/25
+- **LeetCode 500Q**
 
 ### Total Medium questions:
 - ~~Medium 50Q~~ - 2022/04/06
