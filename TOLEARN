@@ -27,3 +27,4 @@ Bellman Ford and Djikstra (https://leetcode.com/problems/cheapest-flights-within
 Prefix sum bookkeeping (https://leetcode.com/problems/subarray-sum-equals-k/)
 Dijkstra = BFS + PQ (https://leetcode.com/problems/swim-in-rising-water/)
 Union find (https://leetcode.com/problems/redundant-connection/)
+When binary search, use low + (high-low/2) to prevent integer overflow (https://leetcode.com/problems/guess-number-higher-or-lower/)
