@@ -5,3 +5,11 @@ Peak Index in a Mountain Array (Easy) https://leetcode.com/problems/peak-index-i
 
 --------------------------
 My Calendar I (Medium) https://leetcode.com/problems/my-calendar-i/
+
+--------------------------
+My Calendar II (Medium) https://leetcode.com/problems/my-calendar-ii/
+Initial thought: I thought this was just like my calendar I, but boy was I wrong.
+
+Solution: I have learnt about this approach before. Running prefix sum. This solution also uses a TreeMap, but it uses to maintain the number of current active meeting when we traverse through the array. Damn this approach is frickin' smort. TOLEARN for sure!
+
+What to learn: Running prefix sum. I don't know the name for this lmao.
