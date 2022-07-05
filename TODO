@@ -59,3 +59,4 @@ Longest Palindromic Substring (Medium) https://leetcode.com/problems/longest-pal
 Number of Operations to Make Network Connected (Medium) https://leetcode.com/problems/number-of-operations-to-make-network-connected/ (Use Union Find)
 Find the Town Judge (Easy) https://leetcode.com/problems/find-the-town-judge/
 Maximal Network Rank (Medium) https://leetcode.com/problems/maximal-network-rank/ (Use graph theory for O(n))
+Minimum Height Trees (Medium) https://leetcode.com/problems/minimum-height-trees/
