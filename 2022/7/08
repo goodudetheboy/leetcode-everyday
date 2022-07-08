@@ -4,3 +4,6 @@ Initial thought: I thought of a shitty dfs solution for this, but idk how to dea
 Solution: DSU. God damn it. I knew it waas union find, but i still don't know how to deal with the /\ case. Damn.
 
 What to learn: DSU techniques for sure.
+
+--------------------------
+Validate Binary Tree Nodes (Medium) https://leetcode.com/problems/validate-binary-tree-nodes/
