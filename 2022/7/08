@@ -1,0 +1,6 @@
+Regions Cut By Slashes (Medium) https://leetcode.com/problems/regions-cut-by-slashes/
+Initial thought: I thought of a shitty dfs solution for this, but idk how to deal with the / and \ case, so I just looked at Solution anyway.
+
+Solution: DSU. God damn it. I knew it waas union find, but i still don't know how to deal with the /\ case. Damn.
+
+What to learn: DSU techniques for sure.
