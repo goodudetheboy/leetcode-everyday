@@ -62,4 +62,5 @@ Maximal Network Rank (Medium) https://leetcode.com/problems/maximal-network-rank
 Minimum Height Trees (Medium) https://leetcode.com/problems/minimum-height-trees/
 Interleaving String (Medium) https://leetcode.com/problems/interleaving-string/
 Paint House III (Hard) https://leetcode.com/problems/paint-house-iii/
-https://leetcode.com/problems/course-schedule-iv/
+Course Schedule IV (Medium) https://leetcode.com/problems/course-schedule-iv/
+Path with Maximum Probability (Medium) https://leetcode.com/problems/path-with-maximum-probability/ (Use parent array of union find for faster shit)
