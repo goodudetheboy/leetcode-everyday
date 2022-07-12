@@ -65,3 +65,4 @@ Paint House III (Hard) https://leetcode.com/problems/paint-house-iii/
 Course Schedule IV (Medium) https://leetcode.com/problems/course-schedule-iv/
 Path with Maximum Probability (Medium) https://leetcode.com/problems/path-with-maximum-probability/ (Use parent array of union find for faster shit)
 Increasing Triplet Subsequence (Medium) https://leetcode.com/problems/increasing-triplet-subsequence/ (hint: the seemingly simplest approach is the right approach)
+Matchsticks to Square (Medium) https://leetcode.com/problems/matchsticks-to-square/
