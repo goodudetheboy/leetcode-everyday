@@ -30,3 +30,4 @@ Union find (https://leetcode.com/problems/redundant-connection/)
 When binary search, use low + (high-low/2) to prevent integer overflow (https://leetcode.com/problems/guess-number-higher-or-lower/)
 When need to keep track of something more than k=1, then use running prefix sum (https://leetcode.com/problems/my-calendar-ii/)
 Floyd-Warshall Algorithm (DP stuff, https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+Follow-up: Djikstra on dense graph => Use N-ary heaps (TC: O(E log_{E/V}(V))); Fibonacci heap O(E+Vlog(V)) (but constant overhead makes it impractical).
