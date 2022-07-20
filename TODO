@@ -67,3 +67,4 @@ Path with Maximum Probability (Medium) https://leetcode.com/problems/path-with-m
 Increasing Triplet Subsequence (Medium) https://leetcode.com/problems/increasing-triplet-subsequence/ (hint: the seemingly simplest approach is the right approach)
 Matchsticks to Square (Medium) https://leetcode.com/problems/matchsticks-to-square/
 Number of Matching Subsequences (Medium) https://leetcode.com/problems/number-of-matching-subsequences/
+Max Chunks To Make Sorted (Medium) https://leetcode.com/problems/max-chunks-to-make-sorted/ (Use other than stack)
