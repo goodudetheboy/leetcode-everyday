@@ -68,3 +68,4 @@ Increasing Triplet Subsequence (Medium) https://leetcode.com/problems/increasing
 Matchsticks to Square (Medium) https://leetcode.com/problems/matchsticks-to-square/
 Number of Matching Subsequences (Medium) https://leetcode.com/problems/number-of-matching-subsequences/
 Max Chunks To Make Sorted (Medium) https://leetcode.com/problems/max-chunks-to-make-sorted/ (Use other than stack)
+All Ancestors of a Node in a Directed Acyclic Graph (Medium) https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/ (No need to use Collections.sort)
